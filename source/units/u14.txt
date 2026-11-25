@@ -1,0 +1,123 @@
+@unit 14
+@title Antes y ahora
+@title_en Then and now
+@title_fa گذشته و حال
+@pages 145-154
+@verbs recordar parecer repartir hacerse cambiar llevarse encontrarse correr cruzar indicar llegar tocar
+@tenses
+@topics A No había tantos coches — hábitos y circunstancias del pasado, imperfecto vs. indefinido | B Yo no gano tanto como tú — comparativos y superlativos | C Moverse por la ciudad — orientarse, expresiones de lugar, medios de transporte | D Buenos Aires: barrios de antes y ahora
+
+#grammar Pretérito imperfecto: hábitos y descripciones
+fa: imperfecto برای عادت‌ها در گذشته، توصیف آدم‌ها و چیزها در گذشته و توصیف موقعیت و شرایط است. «había» (از haber) = وجود داشت.
+ex: Antes en mi ciudad había menos coches que ahora. | In the past there were fewer cars in my city than now.
+ex: Iba todos los domingos a bailar. | I used to go dancing every Sunday.
+ex: Como no había transporte, tenía que ir andando. | As there was no transport, I had to walk.
+
+#grammar Imperfecto vs. indefinido
+fa: indefinido اتفاق اصلی را روایت می‌کند (چه شد)، imperfecto شرایط و پس‌زمینه را توصیف می‌کند (چطور بود). اگر کار در یک بازه‌ی تمام‌شده باشد (tres años، hasta las tres) از indefinido استفاده می‌شود.
+ex: Cuando venía del trabajo, me encontré con Roberto. | When I was coming back from work, I bumped into Roberto.
+ex: Como no tenía dinero, no me compré los pantalones. | As I didn't have any money, I didn't buy the trousers.
+ex: Mi abuelo vivió muchos años en Torreblanca. | My grandfather lived in Torreblanca for many years.
+ex: La primera vez que vio el mar le pareció maravilloso. | The first time he saw the sea he thought it was wonderful.
+
+#grammar Comparativos con nombres y verbos
+fa: más/menos + اسم + que (پول بیشتر از)، فعل + más/menos + que (بیشتر می‌دود)، tanto/tanta/tantos/tantas + اسم + como (به همان اندازه)، فعل + tanto como.
+ex: Yo gano menos dinero que mi mujer. | I earn less money than my wife.
+ex: Andrés corre más que Carlos. | Andrés runs more than Carlos.
+ex: Ana tiene tantos amigos como Sara. | Ana has as many friends as Sara.
+ex: Mi madre trabaja tanto como mi padre. | My mother works as much as my father.
+
+#grammar Superlativos
+fa: نسبی: el/la/los/las + más/menos + صفت (+ de): بیشترین در یک گروه. مطلق: muy + صفت یا صفت + -ísimo (rico → riquísimo، fácil → facilísimo، cerca → cerquísima).
+ex: Marina es la más joven de las hermanas. | Marina is the youngest of the sisters.
+ex: Es el hombre más simpático que conozco. | He's the nicest man I know.
+ex: La paella está riquísima. | The paella is delicious.
+ex: Nuria es simpatiquísima. | Nuria is extremely nice.
+
+#vocab El pasado
+la infancia | childhood | کودکی
+la adolescencia | adolescence | نوجوانی
+de joven | as a young person | در جوانی
+había | there was, there were | وجود داشت
+el tranvía | tram | تراموا
+la escuela | school | مدرسه
+el taller | workshop | کارگاه
+la pastelería | cake shop | شیرینی‌فروشی
+la máquina | machine | ماشین، دستگاه
+duro/a | hard | سخت
+maravilloso/a | wonderful | فوق‌العاده
+recordar | to remember | به یاد آوردن
+cambiar | to change | تغییر کردن
+llevarse bien / mal | to get on well / badly | رابطه‌ی خوب/بد داشتن
+a menudo | often | اغلب
+tener miedo | to be afraid | ترسیدن
+la tarea doméstica | household chore | کار خانه
+
+#vocab Comparar
+tanto/a ... como | as much ... as | به اندازه‌ی
+tantos/as ... como | as many ... as | به همان تعداد
+el / la mejor | the best | بهترین
+el / la peor | the worst | بدترین
+el / la mayor | the oldest | بزرگ‌ترین
+el / la menor | the youngest | کوچک‌ترین
+riquísimo/a | delicious | خیلی خوشمزه
+buenísimo/a | very good | خیلی خوب
+facilísimo/a | very easy | خیلی آسان
+cerquísima | very close | خیلی نزدیک
+el / la empleado/a | employee | کارمند
+el sueldo | salary | حقوق
+ganar | to earn | درآمد داشتن
+la afición | hobby | سرگرمی
+la vitamina | vitamin | ویتامین
+los dulces | sweets | شیرینی‌جات
+rico/a | rich, tasty | پولدار، خوشمزه
+económico/a | cheap, economical | ارزان، اقتصادی
+seguro/a | safe | امن
+
+#vocab Moverse por la ciudad
+el cruce | crossroads | تقاطع
+el semáforo | traffic lights | چراغ راهنمایی
+la esquina | corner | نبش
+en la esquina | on the corner | سر نبش
+el puesto de periódicos | newspaper stand | دکه‌ی روزنامه
+el autocar | coach | اتوبوس بین‌شهری
+andando | on foot | پیاده
+ir andando | to walk, to go on foot | پیاده رفتن
+ir a pie | to go on foot | پیاده رفتن
+por aquí | around here | همین اطراف
+¿Sabe si hay...? | Do you know if there is...? | می‌دانید ... هست؟
+¿Podría decirme...? | Could you tell me...? | ممکن است بگویید...؟
+el barrio residencial | residential area | محله‌ی مسکونی
+
+#phrases
+¿Cómo era la vida hace cien años? | What was life like a hundred years ago? | زندگی صد سال پیش چطور بود؟
+Cuando era joven... | When I was young... | وقتی جوان بودم...
+¿Qué hacías cuando eras adolescente? | What did you use to do as a teenager? | در نوجوانی چه کار می‌کردی؟
+Perdone, ¿podría decirme dónde hay...? | Excuse me, could you tell me where there is...? | ببخشید، ممکن است بگویید کجا ... هست؟
+Disculpe, estoy buscando una farmacia. | Excuse me, I'm looking for a pharmacy. | ببخشید، دنبال داروخانه می‌گردم.
+¿Me podría indicar cómo llegar a...? | Could you tell me how to get to...? | ممکن است بگویید چطور به ... برسم؟
+
+#sentences
+In the past there were fewer cars than now. => Antes había menos coches que ahora.
+Life was harder. => La vida era más dura.
+When I was young, I played the guitar. => Cuando era joven, tocaba la guitarra.
+Every Sunday we went to the theatre. => Todos los domingos íbamos al teatro.
+As there was no transport, I had to walk. => Como no había transporte, tenía que ir andando.
+When I was coming back from work, I met Roberto. => Cuando venía del trabajo, me encontré con Roberto.
+My parents met at a party and got married two years later. => Mis padres se conocieron en una fiesta y se casaron dos años más tarde. // Mis padres se conocieron en una fiesta y dos años más tarde se casaron.
+As I didn't have money, I didn't buy the trousers. => Como no tenía dinero, no compré los pantalones. // Como no tenía dinero, no me compré los pantalones.
+My grandfather lived in that village for many years. => Mi abuelo vivió muchos años en ese pueblo.
+The first time I saw the sea, it seemed wonderful to me. => La primera vez que vi el mar, me pareció maravilloso.
+I earn less money than my wife. => Gano menos dinero que mi mujer.
+She works more hours than me. => Trabaja más horas que yo. // Ella trabaja más horas que yo.
+Ana has as many friends as Sara. => Ana tiene tantos amigos como Sara.
+My mother works as much as my father. => Mi madre trabaja tanto como mi padre.
+I don't have as much work as you. => No tengo tanto trabajo como tú.
+Marina is the youngest of the sisters. => Marina es la más joven de las hermanas. // Marina es la menor de las hermanas.
+He's the nicest man I know. => Es el hombre más simpático que conozco.
+The paella is delicious. => La paella está riquísima.
+Fruit has more vitamins than sweets. => La fruta tiene más vitaminas que los dulces.
+Excuse me, I'm looking for a pharmacy. => Disculpe, estoy buscando una farmacia. // Perdone, estoy buscando una farmacia.
+The bank is on the corner. => El banco está en la esquina.
+There is a traffic light at the crossroads. => Hay un semáforo en el cruce.
+The station is very close. => La estación está muy cerca. // La estación está cerquísima.

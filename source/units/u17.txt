@@ -1,0 +1,119 @@
+@unit 17
+@title El periódico
+@title_en The newspaper
+@title_fa روزنامه
+@pages 175-184
+@verbs informar contratar ofrecer encargarse robar quemarse estropearse caerse escapar intentar esconder sonar detener preguntar decir contar
+@tenses pprog
+@topics A Buscando trabajo — condiciones de trabajo, anuncios de empleo, entrevistas de trabajo | B Sucesos — noticias del periódico, estaba + gerundio | C Excusas — estilo indirecto | D Mujeres con historia
+
+#grammar Estaba + gerundio
+fa: estar در گذشته‌ی استمراری (estaba, estabas...) + gerundio = کاری که در گذشته در حال انجام بود. معمولاً همراه گذشته‌ی ساده می‌آید: کار در حال انجام (estaba) با یک اتفاق ناگهانی (indefinido) قطع می‌شود. برای عادت‌های گذشته از آن استفاده نمی‌کنیم.
+table: estar (imperfecto) + gerundio | estaba comiendo, estabas comiendo, estaba comiendo, estábamos comiendo, estabais comiendo, estaban comiendo
+ex: Cuando estábamos comiendo, sonó el teléfono. | When we were eating, the phone rang.
+ex: Cuando estaba esperando el autobús, me robaron el bolso. | When I was waiting for the bus, my bag was stolen.
+ex: Ayer a las cuatro todavía estaba comiendo. | Yesterday at four I was still eating.
+ex: Pedro antes compraba el periódico todos los días. | Pedro used to buy the newspaper every day. (habit: imperfecto)
+
+#grammar Estilo indirecto
+fa: برای نقل حرف کسی دیگر: dijo que / me preguntó que... زمان حال به گذشته‌ی استمراری تبدیل می‌شود (vivo → vivía، voy a → iba a) و ضمیرها، صفت‌های ملکی و قیدهای مکان هم تغییر می‌کنند (mi → su، aquí → allí، esta → aquella). در سؤال بدون کلمه‌ی پرسشی از si استفاده می‌شود.
+ex: "Vivo en Cádiz". → Me dijo que vivía en Cádiz. | "I live in Cádiz." → He told me he lived in Cádiz.
+ex: "Voy a ver a mi primo". → Dijo que iba a ver a su primo. | "I'm going to see my cousin." → He said he was going to see his cousin.
+ex: "Tenemos una fiesta aquí". → Dijo que tenían una fiesta allí. | "We're having a party here." → She said they were having a party there.
+ex: "¿Dónde estabas?" → Me preguntó que dónde estaba. | "Where were you?" → He asked me where I was.
+ex: "¿Vas a ir al cine?" → Me preguntó si iba a ir al cine. | "Are you going to the cinema?" → He asked me if I was going to the cinema.
+
+#vocab El trabajo
+buscar trabajo | to look for work | دنبال کار گشتن
+encontrar trabajo | to find a job | کار پیدا کردن
+la oferta de empleo | job offer | آگهی استخدام
+el empleo | employment, job | شغل، استخدام
+el puesto de trabajo | position, job | پست کاری
+la entrevista | interview | مصاحبه
+hacer una entrevista | to have an interview | مصاحبه کردن
+el currículum | CV | رزومه
+enviar un currículum | to send a CV | رزومه فرستادن
+la experiencia | experience | تجربه
+tener experiencia | to have experience | تجربه داشتن
+la titulación | qualification | مدرک تحصیلی
+los conocimientos | knowledge | دانش، مهارت
+el contrato | contract | قرارداد
+el sueldo | salary | حقوق
+las comisiones | commission | پورسانت
+la jornada completa | full-time | تمام‌وقت
+la media jornada | part-time | نیمه‌وقت
+el turno de mañana | morning shift | شیفت صبح
+el turno de noche | night shift | شیفت شب
+las condiciones de trabajo | working conditions | شرایط کاری
+la empresa multinacional | multinational company | شرکت چندملیتی
+el / la mecánico/a | mechanic | مکانیک
+el / la guía turístico/a | tour guide | راهنمای تور
+el programador / la programadora | programmer | برنامه‌نویس
+el teleoperador / la teleoperadora | call centre operator | اپراتور تلفنی
+el taller | workshop, garage | کارگاه، تعمیرگاه
+la peluquería | hairdresser's | آرایشگاه
+el laboratorio | laboratory | آزمایشگاه
+el carné de conducir | driving licence | گواهینامه
+imprescindible | essential | ضروری
+necesario/a | necessary | لازم
+
+#vocab El periódico y sucesos
+la noticia | news item | خبر
+las noticias | the news | اخبار
+la sección | section | بخش
+los sucesos | crime news, incidents | حوادث
+los deportes | sports | ورزش
+la economía | economy | اقتصاد
+el medioambiente | environment | محیط زیست
+la cartelera | listings (films, shows) | برنامه‌ی سینما و تئاتر
+el ladrón / la ladrona | thief | دزد
+robar | to steal, to rob | دزدیدن
+detener | to arrest | دستگیر کردن
+la policía | police | پلیس
+caerse | to fall (over) | افتادن
+estropearse | to break down | خراب شدن
+la avería | breakdown | خرابی
+sonar | to ring | زنگ زدن (صدا دادن)
+de repente | suddenly | ناگهان
+mientras | while | در حالی که
+todavía | still | هنوز
+
+#vocab Estilo indirecto
+decir que | to say that | گفتن که
+preguntar si | to ask if | پرسیدن که آیا
+contar | to tell | تعریف کردن
+la excusa | excuse | بهانه
+allí | there | آنجا
+aquel/aquella | that | آن
+su | his, her, their | ...ش، ...شان
+
+#phrases
+¿Tienes experiencia? | Do you have experience? | تجربه داری؟
+¿Qué titulación tienes? | What qualifications do you have? | چه مدرکی داری؟
+¿Cuál es el horario? | What are the working hours? | ساعت کاری چطور است؟
+¿Qué tipo de contrato ofrecen? | What kind of contract do you offer? | چه نوع قراردادی می‌دهید؟
+¿Cuál es el sueldo? | What's the salary? | حقوق چقدر است؟
+¿Qué te ha dicho? | What did he/she tell you? | چی بهت گفت؟
+Me dijo que... | He/She told me that... | به من گفت که...
+
+#sentences
+I'm looking for a job. => Estoy buscando trabajo. // Busco trabajo.
+Do you have experience? => ¿Tienes experiencia? // ¿Tiene experiencia?
+I sent my CV to three companies. => Envié mi currículum a tres empresas.
+I'd like a full-time job. => Me gustaría un trabajo de jornada completa.
+What's the salary? => ¿Cuál es el sueldo?
+When we were eating, the phone rang. => Cuando estábamos comiendo, sonó el teléfono.
+When I was waiting for the bus, they stole my bag. => Cuando estaba esperando el autobús, me robaron el bolso.
+He fell while he was skiing. => Se cayó cuando estaba esquiando.
+We were watching the match when the TV broke down. => Estábamos viendo el partido cuando se estropeó la televisión.
+I was talking to my sister and the food burned. => Estaba hablando con mi hermana y se quemó la comida.
+Yesterday at four I was still working. => Ayer a las cuatro todavía estaba trabajando.
+The police arrested the thief. => La policía detuvo al ladrón.
+He told me he lived in Cádiz. => Me dijo que vivía en Cádiz.
+She said she was going to see her cousin. => Dijo que iba a ver a su primo.
+He said they were having a party there. => Dijo que tenían una fiesta allí.
+She asked me where I was. => Me preguntó dónde estaba. // Me preguntó que dónde estaba.
+He asked me if I was going to the cinema. => Me preguntó si iba a ir al cine. // Me preguntó que si iba a ir al cine.
+What did he tell you? => ¿Qué te ha dicho? // ¿Qué te dijo?
+She said she didn't like that house. => Dijo que no le gustaba aquella casa.
+I read the news on the internet. => Leo las noticias en internet.

@@ -1,0 +1,134 @@
+@unit 11
+@title Biografías
+@title_en Biographies
+@title_fa زندگی‌نامه‌ها
+@pages 115-124
+@verbs cantar morir inventar componer grabar crecer actuar trasladarse divorciarse recibir fallecer instalarse perder conseguir tener venir poder poner decir
+@tenses
+@topics A ¿Quieres ser millonario? — formular preguntas, pronombres interrogativos | B Biografías — relatar acontecimientos pasados, usos del pretérito indefinido | C Islas del Caribe — números y fechas | D La Alhambra, personajes famosos
+
+#grammar Pronombres interrogativos
+fa: qué + اسم یا فعل (چه، کدام از میان چیزهای مختلف)، cuál/cuáles + فعل (کدام یکی، از میان چیزهای هم‌نوع)، quién/quiénes (چه کسی)، cuánto/cuánta/cuántos/cuántas + اسم (چقدر، چند تا؛ با اسم مطابقت می‌کند)، dónde، adónde (به کجا)، cuándo، cómo. همیشه تکیه دارند، حتی در سؤال غیرمستقیم.
+ex: ¿Qué libro quieres? | Which book do you want?
+ex: ¿Cuál te gusta más, el rojo o el verde? | Which one do you like more, the red one or the green one?
+ex: ¿Quién te llamó ayer? | Who called you yesterday?
+ex: ¿Cuántas horas trabajas? | How many hours do you work?
+ex: ¿Adónde fuiste el domingo? | Where did you go on Sunday?
+ex: Yo no sé dónde vive Juan. | I don't know where Juan lives.
+
+#grammar Pretérito indefinido en biografías
+fa: در زندگی‌نامه‌ها از گذشته‌ی ساده با تاریخ‌های مشخص استفاده می‌شود و همچنین برای دوره‌ای بسته (durante los años 20، tres años). چند فعل بی‌قاعده‌ی مهم: tener → tuve، venir → vine، poder → pude، poner → puse، decir → dije، morir → murió (او مرد).
+table: tener | tuve, tuviste, tuvo, tuvimos, tuvisteis, tuvieron
+table: venir | vine, viniste, vino, vinimos, vinisteis, vinieron
+table: decir | dije, dijiste, dijo, dijimos, dijisteis, dijeron
+table: morir | morí, moriste, murió, morimos, moristeis, murieron
+ex: Carlos Gardel murió el 24 de junio de 1935. | Carlos Gardel died on 24 June 1935.
+ex: Durante los años 20, Gardel viajó a Europa. | During the 1920s, Gardel travelled to Europe.
+ex: Mi madre vivió tres años en París. | My mother lived in Paris for three years.
+
+#grammar Números grandes y fechas
+fa: صدگان مذکر و مؤنث دارند (doscientos euros، doscientas personas). mil جمع بسته نمی‌شود (dos mil). تاریخ: el + روز + de + ماه + de + سال. سال‌ها مثل عدد خوانده می‌شوند: 1975 = mil novecientos setenta y cinco.
+ex: el 2 de enero de 1976 — el dos de enero de mil novecientos setenta y seis | 2 January 1976
+ex: el 15 de agosto de 2005 — el quince de agosto de dos mil cinco | 15 August 2005
+ex: 25 % — veinticinco por ciento | 25 per cent
+ex: dos millones y medio | two and a half million
+
+#vocab Interrogativos
+qué | what, which | چه، چی، کدام
+cuál / cuáles | which (one/ones) | کدام
+quién / quiénes | who | چه کسی، چه کسانی
+cuánto/a | how much | چقدر
+cuántos/as | how many | چند تا
+adónde | where (to) | به کجا
+a qué hora | at what time | ساعت چند
+por qué | why | چرا
+el concurso | quiz show, competition | مسابقه
+la respuesta | answer | جواب
+la pregunta | question | سؤال
+el presidente / la presidenta | president | رئیس‌جمهور
+la reina | queen | ملکه
+el rey | king | پادشاه
+
+#vocab Biografías
+la biografía | biography | زندگی‌نامه
+nacer | to be born | به دنیا آمدن
+morir | to die | مردن
+crecer | to grow up | بزرگ شدن
+casarse | to get married | ازدواج کردن
+divorciarse | to get divorced | طلاق گرفتن
+trasladarse | to move (city, country) | نقل مکان کردن
+tener hijos | to have children | بچه‌دار شدن
+empezar a | to start to | شروع به ... کردن
+actuar | to act, to perform | بازی کردن، اجرا کردن
+grabar | to record | ضبط کردن
+componer | to compose | آهنگ ساختن
+inventar | to invent | اختراع کردن
+ganar un premio | to win a prize | جایزه بردن
+recibir | to receive | دریافت کردن
+el premio | prize, award | جایزه
+el cantante / la cantante | singer | خواننده
+el poeta / la poeta | poet | شاعر
+el escritor / la escritora | writer | نویسنده
+el político / la política | politician | سیاستمدار
+la canción | song | آهنگ
+el disco | record, album | آلبوم
+la gira | tour | تور (کنسرت)
+la obra | work (of art) | اثر
+la novela | novel | رمان
+el éxito | success | موفقیت
+famoso/a | famous | معروف
+importante | important | مهم
+el accidente | accident | تصادف، حادثه
+la guerra | war | جنگ
+la boda | wedding | عروسی
+durante | during | در طول
+los años veinte | the twenties | دهه‌ی بیست
+
+#vocab Números y fechas
+la fecha | date | تاریخ
+mil | thousand | هزار
+un millón | a million | یک میلیون
+por ciento | per cent | درصد
+medio/a | half | نیم
+la isla | island | جزیره
+la población | population | جمعیت
+el habitante | inhabitant | ساکن
+el idioma oficial | official language | زبان رسمی
+la independencia | independence | استقلال
+el palacio | palace | کاخ
+la fuente | fountain | فواره
+
+#phrases
+¿Dónde naciste? | Where were you born? | کجا به دنیا آمدی؟
+¿Cuándo naciste? | When were you born? | کی به دنیا آمدی؟
+Nací el 3 de mayo de 1990. | I was born on 3 May 1990. | سوم مه ۱۹۹۰ به دنیا آمدم.
+¿Qué prefieres, carne o pescado? | Which do you prefer, meat or fish? | کدام را ترجیح می‌دهی، گوشت یا ماهی؟
+¿Cuál es tu actriz favorita? | Who is your favourite actress? | بازیگر زن مورد علاقه‌ات کیست؟
+¿Cuántos años hace que...? | How many years ago...? | چند سال است که...؟
+
+#sentences
+Where were you born? => ¿Dónde naciste?
+When did your son get married? => ¿Cuándo se casó tu hijo?
+Who called you yesterday? => ¿Quién te llamó ayer?
+Which one do you like more, the red one or the green one? => ¿Cuál te gusta más, el rojo o el verde?
+Which book do you want? => ¿Qué libro quieres?
+How many languages do you speak? => ¿Cuántos idiomas hablas?
+How many hours do you work? => ¿Cuántas horas trabajas?
+Where did you go on Sunday afternoon? => ¿Adónde fuiste el domingo por la tarde? // ¿Dónde fuiste el domingo por la tarde?
+I don't know where Juan lives. => No sé dónde vive Juan. // Yo no sé dónde vive Juan.
+Carlos Gardel was born in 1890 and died in 1935. => Carlos Gardel nació en 1890 y murió en 1935.
+He started to sing as a child. => Empezó a cantar de pequeño. // Empezó a cantar desde pequeño.
+During the 1920s he travelled to Europe. => Durante los años veinte viajó a Europa. // Durante los años 20 viajó a Europa.
+My mother lived in Paris for three years. => Mi madre vivió tres años en París.
+She recorded her first album in 1995. => Grabó su primer disco en 1995. // Ella grabó su primer disco en 1995.
+They got married in 2010 and had two children. => Se casaron en 2010 y tuvieron dos hijos.
+He never got married. => Nunca se casó.
+Yesterday I didn't make dinner; my partner made it. => SKIP
+Who came to your house last night? => ¿Quién vino anoche a tu casa?
+Picasso moved to Paris in 1904. => Picasso se trasladó a París en 1904.
+He won an important prize. => Ganó un premio importante.
+I was born on the third of May. => Nací el tres de mayo.
+Today is the twelfth of October. => Hoy es el doce de octubre.
+More than two hundred people came to the wedding. => Vinieron más de doscientas personas a la boda. // Más de doscientas personas vinieron a la boda.
+This coat costs two hundred euros. => Este abrigo cuesta doscientos euros.
+What did you say? => ¿Qué dijiste?

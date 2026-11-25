@@ -1,0 +1,165 @@
+@unit 7
+@title Salir con los amigos
+@title_en Going out with friends
+@title_fa بیرون رفتن با دوستان
+@pages 75-84
+@verbs quedar proponer aceptar pasear leer escuchar llorar reírse discutir pintar secarse arreglarse sonreír gastar odiar conectarse practicar tocar conocer
+@tenses prog
+@topics A ¿Dónde quedamos? — hablar por teléfono, concertar una cita, aceptar o rechazar una invitación | B ¿Qué estás haciendo? — acciones en desarrollo, estar + gerundio | C ¿Cómo es? — descripciones físicas y de carácter | D El tiempo libre de los jóvenes
+
+#grammar Estar + gerundio
+fa: برای کاری که همین الان در حال انجام است: estar (صرف‌شده) + gerundio. gerundio فعل‌های -ar با -ando و فعل‌های -er و -ir با -iendo ساخته می‌شود. بی‌قاعده‌ها: leer → leyendo، dormir → durmiendo، decir → diciendo، pedir → pidiendo.
+table: estar + gerundio | estoy hablando, estás hablando, está hablando, estamos hablando, estáis hablando, están hablando
+table: gerundio | llorar → llorando, comer → comiendo, escribir → escribiendo, leer → leyendo, dormir → durmiendo
+ex: ¿Qué estás haciendo? — Estoy leyendo el periódico. | What are you doing? — I'm reading the newspaper.
+ex: No está durmiendo, está escuchando música. | He isn't sleeping, he's listening to music.
+
+#grammar Estar + gerundio con verbos reflexivos
+fa: ضمیر انعکاسی می‌تواند قبل از estar بیاید یا به آخر gerundio بچسبد (در این حالت علامت تکیه می‌گیرد).
+ex: Me estoy lavando. / Estoy lavándome. | I'm having a wash.
+ex: Se está duchando. / Está duchándose. | She's having a shower.
+
+#grammar Proponer, aceptar y rechazar
+fa: برای پیشنهاد: ¿Vamos...? / ¿Por qué no...? / ¿Te parece bien...? برای قبول: Vale / Estupendo / De acuerdo. برای رد کردن مؤدبانه: Lo siento, no puedo + دلیل، و پیشنهاد دیگر.
+ex: ¿Vamos al centro esta tarde? — Vale. | Shall we go to the centre this afternoon? — OK.
+ex: ¿Por qué no vienes con nosotros? | Why don't you come with us?
+ex: Lo siento, no puedo, tengo que trabajar. | Sorry, I can't, I have to work.
+ex: No, mejor a las seis. ¿Te parece bien? | No, better at six. Is that OK with you?
+
+#grammar Describir personas: ser, tener, llevar
+fa: ser برای ویژگی کلی (alto, delgado, rubio, simpático)، tener برای مو و چشم (tiene el pelo largo, tiene los ojos verdes)، llevar برای چیزهایی مثل ریش، سبیل و عینک (lleva gafas).
+ex: Es alta y delgada. | She's tall and slim.
+ex: Tiene el pelo largo y rubio. | She has long blond hair.
+ex: Tiene los ojos verdes. | She has green eyes.
+ex: Lleva barba y gafas. | He has a beard and wears glasses.
+
+#vocab Quedar con amigos
+quedar | to meet up, to arrange to meet | قرار گذاشتن
+la cita | date, appointment | قرار ملاقات
+tomar algo | to have a drink | چیزی خوردن/نوشیدن (بیرون)
+la serie | TV series | سریال
+estupendo | great | عالی
+fenomenal | great, fantastic | فوق‌العاده
+de acuerdo | OK, agreed | قبول
+lo siento | I'm sorry | متأسفم
+qué pena | what a shame | حیف شد
+tener que | to have to | مجبور بودن، باید
+tener ganas de | to feel like, to look forward to | دلم خواستن، مشتاق بودن
+mañana | tomorrow | فردا
+esta tarde | this afternoon | امروز عصر
+esta noche | tonight | امشب
+el recado | message | پیغام
+la nota | note | یادداشت
+la llamada | call | تماس
+el teatro | theatre | تئاتر
+el concierto | concert | کنسرت
+el baloncesto | basketball | بسکتبال
+juntos/as | together | با هم
+mejor | better | بهتر
+
+#vocab En la playa
+el bañador | swimsuit | مایو
+la sombrilla | beach umbrella | چتر ساحلی
+el sombrero | hat | کلاه
+las gafas de sol | sunglasses | عینک آفتابی
+la pelota | ball | توپ
+las cartas | cards (game) | ورق بازی
+la tumbona | sun lounger | صندلی ساحلی
+pasear | to go for a walk | قدم زدن
+jugar a las cartas | to play cards | ورق بازی کردن
+secarse | to dry oneself | خشک کردن خود
+el pelo | hair | مو
+los dientes | teeth | دندان‌ها
+las manos | hands | دست‌ها
+llorar | to cry | گریه کردن
+reírse | to laugh | خندیدن
+discutir | to argue | بحث و دعوا کردن
+pintar | to paint | نقاشی کردن
+arreglarse | to get ready | آماده شدن
+
+#vocab Descripción física
+alto/a | tall | قدبلند
+bajo/a | short | قدکوتاه
+gordo/a | fat | چاق
+mayor | old, elderly | مسن
+rubio/a | blond | بور
+moreno/a | dark-haired | مومشکی، سبزه
+castaño/a | brown-haired | موقهوه‌ای
+pelirrojo/a | red-haired | مو قرمز
+largo/a | long | بلند
+corto/a | short | کوتاه
+rizado/a | curly | فرفری
+liso/a | straight | صاف
+los ojos | eyes | چشم‌ها
+claro/a | light | روشن
+oscuro/a | dark | تیره
+verde | green | سبز
+azul | blue | آبی
+marrón | brown | قهوه‌ای
+negro/a | black | سیاه
+la barba | beard | ریش
+el bigote | moustache | سبیل
+llevar | to wear, to have | پوشیدن، داشتن (ریش، عینک)
+
+#vocab Carácter
+la persona | person | شخص، آدم
+alegre | cheerful | شاد
+serio/a | serious | جدی
+hablador/a | talkative | پرحرف
+callado/a | quiet | کم‌حرف
+divertido/a | fun, funny | سرگرم‌کننده، بامزه
+aburrido/a | boring, bored | خسته‌کننده، حوصله سر رفته
+generoso/a | generous | سخاوتمند
+tacaño/a | stingy | خسیس
+educado/a | polite | مؤدب
+maleducado/a | rude | بی‌ادب
+antipático/a | unfriendly | بداخلاق، نچسب
+favorito/a | favourite | مورد علاقه
+preferido/a | favourite | مورد علاقه
+odiar | to hate | متنفر بودن
+nunca | never | هرگز
+casi | almost | تقریباً
+el regalo | present, gift | هدیه
+el instrumento | instrument | ساز
+
+#phrases
+¿Qué haces? | What are you doing? | چیکار می‌کنی؟
+¿Qué estás haciendo? | What are you doing (right now)? | داری چیکار می‌کنی؟
+¿Vamos al cine? | Shall we go to the cinema? | بریم سینما؟
+¿Cómo quedamos? | When and where shall we meet? | کی و کجا همدیگه رو ببینیم؟
+¿Dónde quedamos? | Where shall we meet? | کجا قرار بذاریم؟
+Quedamos a las seis. | Let's meet at six. | ساعت شش قرار می‌ذاریم.
+¿Te parece bien? | Is that OK with you? | موافقی؟
+Lo siento, no puedo. | Sorry, I can't. | متأسفم، نمی‌تونم.
+¿Puedo hablar con...? | Can I speak to...? | می‌تونم با ... صحبت کنم؟
+No está en este momento. | He/She isn't here at the moment. | در حال حاضر نیست.
+¿Quiere dejar un recado? | Would you like to leave a message? | می‌خواهید پیغام بگذارید؟
+Dígale que... | Tell him/her that... | به او بگویید که...
+¿Cómo es? | What is he/she like? | چه شکلیه؟ / چطور آدمیه؟
+¡Qué bien! | How nice!, Great! | چه خوب!
+
+#sentences
+What are you doing? => ¿Qué estás haciendo? // ¿Qué haces?
+I'm watching a series. => Estoy viendo una serie.
+She's reading the newspaper. => Está leyendo el periódico. // Ella está leyendo el periódico.
+The children are sleeping. => Los niños están durmiendo.
+He isn't sleeping, he's listening to music. => No está durmiendo, está escuchando música.
+I'm having a shower. => Me estoy duchando. // Estoy duchándome.
+We are getting ready. => Nos estamos arreglando. // Estamos arreglándonos.
+Shall we go to the cinema this afternoon? => ¿Vamos al cine esta tarde?
+Where shall we meet? => ¿Dónde quedamos?
+Let's meet at six at the metro entrance. => Quedamos a las seis en la puerta del metro.
+Is that OK with you? => ¿Te parece bien?
+Sorry, I can't, I have to work. => Lo siento, no puedo, tengo que trabajar.
+Why don't you come with us? => ¿Por qué no vienes con nosotros? // ¿Por qué no vienes con nosotras?
+Can I speak to Mr. Álvarez? => ¿Puedo hablar con el señor Álvarez?
+He isn't here at the moment. Would you like to leave a message? => No está en este momento. ¿Quiere dejar un recado? // No está en este momento. ¿Quiere dejarle un recado?
+She is tall and slim. => Es alta y delgada. // Ella es alta y delgada.
+He has short dark hair and green eyes. => Tiene el pelo corto y moreno y los ojos verdes.
+My brother has a beard and wears glasses. => Mi hermano lleva barba y gafas. // Mi hermano tiene barba y lleva gafas.
+My friend is very talkative and cheerful. => Mi amigo es muy hablador y alegre. // Mi amiga es muy habladora y alegre.
+Her boyfriend is quiet and serious. => Su novio es callado y serio.
+I don't like rude people. => No me gustan las personas maleducadas.
+On Saturdays I go out with my friends. => Los sábados salgo con mis amigos. // Los sábados salgo con mis amigas.
+I really feel like seeing you. => Tengo muchas ganas de verte. // Tengo muchas ganas de veros.
+What is your favourite film? => ¿Cuál es tu película favorita? // ¿Cuál es tu película preferida?

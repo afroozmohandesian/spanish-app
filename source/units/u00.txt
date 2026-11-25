@@ -1,0 +1,137 @@
+@unit 0
+@title Antes de empezar
+@title_en Before we start
+@title_fa قبل از شروع
+@pages 8-14
+@verbs llamarse ser
+@tenses pres
+@topics Saludar y presentarse | Decir el nombre | El alfabeto | Recursos para la clase | España y América Latina
+
+#grammar Presentarse: llamarse y ser
+fa: برای گفتن اسم از فعل llamarse استفاده می‌کنیم: me llamo یعنی «اسمم ... است». برای ملیت و اهل‌کجا بودن از ser استفاده می‌کنیم: soy de یعنی «اهل ... هستم».
+ex: Me llamo Maribel. | My name is Maribel.
+ex: ¿Cómo te llamas? | What's your name?
+ex: ¿De dónde eres? | Where are you from?
+ex: Soy brasileño, de Porto Alegre. | I'm Brazilian, from Porto Alegre.
+
+#grammar Sílaba tónica (تکیه)
+fa: اگر کلمه علامت تکیه (tilde) داشته باشد، همان هجا قوی‌تر خوانده می‌شود. اگر نداشته باشد: کلمه‌ای که به حرف بی‌صدا ختم شود (به جز n و s) تکیه‌اش روی هجای آخر است؛ کلمه‌ای که به مصوت یا n یا s ختم شود، تکیه‌اش روی هجای ماقبل آخر است.
+ex: español, hablar, Madrid | stress on the last syllable
+ex: ventana, examen, crisis | stress on the second-to-last syllable
+ex: médico, ácido | the written accent marks the stress
+
+#grammar Pronunciación: c/z, g/j, qu, gu, h
+fa: ca, co, cu صدای «ک» دارند و ce, ci صدای «ث» (در اسپانیا). que, qui = «که، کی». ga, go, gu = «گ» ولی ge, gi و j = «خ». gue, gui = «گه، گی». حرف h خوانده نمی‌شود. ll و y تقریباً «ی» خوانده می‌شوند و ñ = «نیـ».
+ex: casa, cosa, cuatro / cine, zapato | k sound / th sound
+ex: queso, quince / guitarra, guerra | k sound / g sound
+ex: jefe, gente, jirafa | kh sound
+ex: hotel, helado | silent h
+
+#vocab Saludos
+hola | hello, hi | سلام
+buenos días | good morning | صبح بخیر
+buenas tardes | good afternoon | عصر بخیر
+buenas noches | good evening, good night | شب بخیر
+adiós | goodbye | خداحافظ
+gracias | thank you | ممنون
+por favor | please | لطفاً
+sí | yes | بله
+no | no, not | نه
+vale | OK | باشه
+
+#vocab En la clase
+el nombre | first name | اسم
+el apellido | surname, last name | نام خانوادگی
+el profesor / la profesora | teacher | معلم
+el / la estudiante | student | دانشجو، دانش‌آموز
+el compañero / la compañera | classmate, colleague | همکلاسی، همکار
+la palabra | word | کلمه
+la letra | letter (of the alphabet) | حرف
+la clase | class | کلاس
+el español | Spanish (language) | زبان اسپانیایی
+el ordenador | computer | کامپیوتر
+el portátil | laptop | لپ‌تاپ
+el móvil | mobile phone | موبایل
+la pantalla | screen | صفحه‌نمایش
+
+#vocab Países
+España | Spain | اسپانیا
+Alemania | Germany | آلمان
+Francia | France | فرانسه
+Italia | Italy | ایتالیا
+Brasil | Brazil | برزیل
+México | Mexico | مکزیک
+Argentina | Argentina | آرژانتین
+Colombia | Colombia | کلمبیا
+Perú | Peru | پرو
+Chile | Chile | شیلی
+Cuba | Cuba | کوبا
+el país | country | کشور
+la ciudad | city | شهر
+la capital | capital | پایتخت
+la lengua | language | زبان
+
+#vocab Nacionalidades
+español/a | Spanish | اسپانیایی
+alemán/a | German | آلمانی
+francés/a | French | فرانسوی
+italiano/a | Italian | ایتالیایی
+brasileño/a | Brazilian | برزیلی
+mexicano/a | Mexican | مکزیکی
+argentino/a | Argentinian | آرژانتینی
+colombiano/a | Colombian | کلمبیایی
+peruano/a | Peruvian | پرویی
+chileno/a | Chilean | شیلیایی
+cubano/a | Cuban | کوبایی
+catalán/a | Catalan | کاتالان
+andaluz/a | Andalusian | اهل اندلس
+madrileño/a | from Madrid | اهل مادرید
+gallego/a | Galician | گالیسیایی
+vasco/a | Basque | باسکی
+
+#vocab Palabras internacionales
+la fiesta | party | جشن، مهمانی
+el hotel | hotel | هتل
+el cine | cinema | سینما
+el hospital | hospital | بیمارستان
+el restaurante | restaurant | رستوران
+el bar | bar | بار، کافه
+el chocolate | chocolate | شکلات
+el café | coffee, café | قهوه، کافه
+la playa | beach | ساحل
+la paella | paella | پائلا (غذای اسپانیایی)
+la guitarra | guitar | گیتار
+la siesta | nap | خواب بعدازظهر
+
+#phrases
+Me llamo... | My name is... | اسمم ... است
+¿Cómo te llamas? | What's your name? | اسمت چیه؟
+¿De dónde eres? | Where are you from? | اهل کجایی؟
+Soy de... | I'm from... | اهل ... هستم
+¿Y de apellido? | And your surname? | و نام خانوادگی؟
+¿Cómo se escribe? | How do you spell it? | چطور نوشته می‌شود؟
+¿Cómo se pronuncia? | How do you pronounce it? | چطور تلفظ می‌شود؟
+¿Cómo se dice ... en español? | How do you say ... in Spanish? | ... به اسپانیایی چی می‌شه؟
+¿Qué significa...? | What does ... mean? | ... یعنی چه؟
+¿Puede repetir, por favor? | Can you repeat, please? | می‌شه لطفاً تکرار کنید؟
+¿Con be o con uve? | With B or with V? | با b یا با v؟
+¿Así está bien? | Is it right like this? | این‌طوری درسته؟
+
+#sentences
+Hello! My name is Maribel. => ¡Hola! Me llamo Maribel.
+What's your name? => ¿Cómo te llamas?
+Good morning! => ¡Buenos días!
+Good evening! => ¡Buenas noches!
+Where are you from? => ¿De dónde eres?
+I am from Spain. => Soy de España.
+I am Brazilian. => Soy brasileño. // Soy brasileña.
+I am Italian, from Rome. => Soy italiano, de Roma. // Soy italiana, de Roma.
+She is French. => Es francesa. // Ella es francesa.
+How do you spell it? => ¿Cómo se escribe?
+How do you say "laptop" in Spanish? => ¿Cómo se dice laptop en español? // ¿Cómo se dice "laptop" en español?
+What does "ordenador" mean? => ¿Qué significa ordenador? // ¿Qué significa "ordenador"?
+Can you repeat, please? => ¿Puede repetir, por favor?
+Thank you, goodbye! => ¡Gracias, adiós! // Gracias, adiós.
+With B or with V? => ¿Con be o con uve?
+Yes, OK. => Sí, vale.
+I am from Barcelona, I am Catalan. => Soy de Barcelona, soy catalán. // Soy de Barcelona, soy catalana.

@@ -1,0 +1,189 @@
+@unit 3
+@title El trabajo
+@title_en Work
+@title_fa کار و برنامه روزانه
+@pages 35-44
+@verbs levantarse acostarse ducharse bañarse afeitarse lavarse peinarse vestirse casarse empezar terminar volver ir venir salir entrar llegar tomar querer ver hacer dormir
+@tenses pres
+@topics A Rosa se levanta a las siete — rutinas diarias, verbos reflexivos, presente irregular | B ¿Estudias o trabajas? — días de la semana, profesiones y horarios | C ¿Qué desayunas? — pedir un desayuno | D Hábitos y horarios de los españoles
+
+#grammar Verbos reflexivos
+fa: فعل‌هایی که فاعل کار را روی خودش انجام می‌دهد با ضمیر انعکاسی می‌آیند: me, te, se, nos, os, se. ضمیر قبل از فعل صرف‌شده می‌آید. اگر کار روی چیز دیگری باشد، ضمیر حذف می‌شود.
+table: levantarse | me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan
+table: acostarse | me acuesto, te acuestas, se acuesta, nos acostamos, os acostáis, se acuestan
+ex: Rosa se levanta a las siete. | Rosa gets up at seven.
+ex: María se lava la cara. / María lava la ropa. | María washes her face. / María washes the clothes.
+
+#grammar Presente irregular: e>ie, o>ue
+fa: در بعضی فعل‌ها مصوت ریشه در همه‌ی شخص‌ها به جز nosotros و vosotros تغییر می‌کند: e به ie (empezar → empiezo) و o به ue (volver → vuelvo، acostarse → me acuesto، dormir → duermo).
+table: empezar | empiezo, empiezas, empieza, empezamos, empezáis, empiezan
+table: volver | vuelvo, vuelves, vuelve, volvemos, volvéis, vuelven
+ex: Las clases empiezan a las nueve. | Classes start at nine.
+ex: Vuelvo a casa a las siete. | I come back home at seven.
+
+#grammar Otros verbos irregulares: ir, venir, salir
+fa: این فعل‌ها پرکاربرد و کاملاً بی‌قاعده‌اند. salir و venir در اول شخص مفرد g می‌گیرند.
+table: ir | voy, vas, va, vamos, vais, van
+table: venir | vengo, vienes, viene, venimos, venís, vienen
+table: salir | salgo, sales, sale, salimos, salís, salen
+ex: Mi padre va al trabajo en autobús. | My father goes to work by bus.
+ex: Carlos sale de casa a las ocho. | Carlos leaves home at eight.
+
+#grammar Preposiciones de tiempo
+fa: el lunes / los lunes = دوشنبه / دوشنبه‌ها. por la mañana / por la tarde / por la noche = صبح/عصر/شب (بدون ساعت مشخص). a las diez de la mañana = ساعت ده صبح (با ساعت از de استفاده می‌شود). desde ... hasta و de ... a = از ... تا.
+ex: Yo solo trabajo por la mañana. | I only work in the morning.
+ex: Se levanta a las seis de la mañana. | He gets up at six in the morning.
+ex: Ella trabaja desde las ocho hasta las tres. | She works from eight until three.
+ex: Los sábados por la noche vamos a la discoteca. | On Saturday nights we go to the club.
+
+#grammar Cuantificadores
+fa: todos los / todas las = همه‌ی، la mayoría de = بیشترِ، muchos/muchas = بسیاری، algunos/algunas = بعضی.
+ex: Todos los camareros del hotel hablan inglés. | All the waiters in the hotel speak English.
+ex: La mayoría de los españoles se acuesta tarde. | Most Spaniards go to bed late.
+ex: Algunos alumnos van al colegio en autobús. | Some students go to school by bus.
+
+#vocab Acciones cotidianas
+levantarse | to get up | از خواب بلند شدن
+acostarse | to go to bed | به رختخواب رفتن
+ducharse | to have a shower | دوش گرفتن
+bañarse | to have a bath, to swim | حمام کردن، شنا کردن
+lavarse | to wash (oneself) | شستن (خود)
+peinarse | to comb one's hair | شانه کردن مو
+afeitarse | to shave | اصلاح کردن صورت
+vestirse | to get dressed | لباس پوشیدن
+casarse | to get married | ازدواج کردن
+empezar | to start | شروع شدن، شروع کردن
+terminar | to finish | تمام شدن، تمام کردن
+dormir | to sleep | خوابیدن
+ver la tele | to watch TV | تلویزیون دیدن
+la cara | face | صورت
+el vecino / la vecina | neighbour | همسایه
+
+#vocab Verbos de movimiento
+ir | to go | رفتن
+venir | to come | آمدن
+salir | to go out, to leave | بیرون رفتن، خارج شدن
+entrar | to go in, to enter | وارد شدن
+llegar | to arrive | رسیدن
+volver | to come back, to return | برگشتن
+ir en autobús | to go by bus | با اتوبوس رفتن
+ir en tren | to go by train | با قطار رفتن
+ir en coche | to go by car | با ماشین رفتن
+
+#vocab Días de la semana
+el lunes | Monday | دوشنبه
+el martes | Tuesday | سه‌شنبه
+el miércoles | Wednesday | چهارشنبه
+el jueves | Thursday | پنجشنبه
+el viernes | Friday | جمعه
+el sábado | Saturday | شنبه
+el domingo | Sunday | یکشنبه
+el fin de semana | weekend | آخر هفته
+hoy | today | امروز
+el día de fiesta | holiday | روز تعطیل
+el día libre | day off | روز مرخصی
+todos los días | every day | هر روز
+
+#vocab Tiempo y frecuencia
+temprano | early | زود
+pronto | early, soon | زود
+tarde | late | دیر
+la madrugada | early morning (after midnight) | سحر، بعد از نیمه‌شب
+desde | from, since | از
+hasta | until | تا
+normalmente | normally, usually | معمولاً
+siempre | always | همیشه
+a veces | sometimes | گاهی
+después | afterwards, then | بعد
+primero | first | اول
+todos/as | all, every | همه
+la mayoría de | most of | بیشترِ
+algunos/as | some | بعضی
+muchos/as | many | بسیاری
+otro/a | other, another | دیگر، یکی دیگر
+solo | only | فقط
+
+#vocab Trabajo y profesiones
+el trabajo | work, job | کار
+el horario | schedule, timetable | برنامه زمانی، ساعت کاری
+el / la jefe/a | boss | رئیس
+el enfermero / la enfermera | nurse | پرستار
+el informático / la informática | IT specialist | متخصص کامپیوتر
+el cajero / la cajera | cashier | صندوقدار
+el azafato / la azafata | flight attendant | مهماندار
+el bombero / la bombera | firefighter | آتش‌نشان
+el / la cliente | customer | مشتری
+el alumno / la alumna | pupil, student | دانش‌آموز
+el supermercado | supermarket | سوپرمارکت
+el aeropuerto | airport | فرودگاه
+el ayuntamiento | town hall | شهرداری
+el pueblo | village, town | روستا، شهرک
+la escuela | school | مدرسه
+la radio | radio | رادیو
+el periódico | newspaper | روزنامه
+
+#vocab El desayuno
+el desayuno | breakfast | صبحانه
+la leche | milk | شیر
+el té | tea | چای
+el café con leche | coffee with milk | قهوه با شیر
+el café solo | black coffee | قهوه‌ی سیاه
+el azúcar | sugar | شکر
+el zumo de naranja | orange juice | آب پرتقال
+la tostada | toast | نان تست
+la mantequilla | butter | کره
+la mermelada | jam | مربا
+el aceite de oliva | olive oil | روغن زیتون
+el tomate | tomato | گوجه‌فرنگی
+el pan | bread | نان
+el huevo | egg | تخم‌مرغ
+el queso | cheese | پنیر
+el bocadillo | sandwich (baguette) | ساندویچ
+el sándwich mixto | ham and cheese toastie | ساندویچ گرم ژامبون و پنیر
+las galletas | biscuits, cookies | بیسکویت
+los cereales | cereal | غلات صبحانه
+los churros | churros | چوروس (شیرینی سرخ‌شده)
+el bollo | bun, pastry | نان شیرینی
+el yogur | yogurt | ماست
+el limón | lemon | لیمو
+con | with | با
+sin | without | بدون
+
+#phrases
+¿A qué hora te levantas? | What time do you get up? | ساعت چند بیدار می‌شی؟
+Me levanto a las siete. | I get up at seven. | ساعت هفت بیدار می‌شم.
+¿Qué día es hoy? | What day is it today? | امروز چه روزیه؟
+¿Cómo vas al trabajo? | How do you get to work? | چطوری می‌ری سر کار؟
+Voy en tren. | I go by train. | با قطار می‌رم.
+Trabajo de nueve a cinco. | I work from nine to five. | از نه تا پنج کار می‌کنم.
+¿Qué desean? | What would you like? (waiter) | چی میل دارید؟
+Yo quiero un café con leche. | I'd like a coffee with milk. | من یک قهوه با شیر می‌خوام.
+Me gusta el café con leche. | I like coffee with milk. | قهوه با شیر دوست دارم.
+¿Y tú? | And you? | تو چی؟
+
+#sentences
+I get up at seven. => Me levanto a las siete. // Yo me levanto a las siete.
+What time do you go to bed? => ¿A qué hora te acuestas?
+She has a shower in the morning. => Se ducha por la mañana. // Ella se ducha por la mañana.
+We go to bed late on Saturdays. => Nos acostamos tarde los sábados. // Los sábados nos acostamos tarde.
+Classes start at nine. => Las clases empiezan a las nueve.
+I come back home at seven in the evening. => Vuelvo a casa a las siete de la tarde.
+How do you get to work? => ¿Cómo vas al trabajo?
+My father goes to work by bus. => Mi padre va al trabajo en autobús.
+I leave home at eight. => Salgo de casa a las ocho.
+She works from eight to three. => Trabaja de ocho a tres. // Ella trabaja de ocho a tres. // Trabaja desde las ocho hasta las tres. // Ella trabaja desde las ocho hasta las tres.
+I don't work in the afternoon. => No trabajo por la tarde.
+On Saturday nights we go out with friends. => Los sábados por la noche salimos con amigos. // Los sábados por la noche salimos con nuestros amigos.
+He is a firefighter and he works at the town hall. => Es bombero y trabaja en el ayuntamiento.
+Most Spaniards go to bed late. => La mayoría de los españoles se acuesta tarde. // La mayoría de los españoles se acuestan tarde.
+I sleep eight hours. => Duermo ocho horas.
+Do you come by train? => ¿Vienes en tren?
+What would you like? => ¿Qué desean? // ¿Qué quieres? // ¿Qué quiere?
+I'd like a coffee with milk and toast with butter. => Quiero un café con leche y una tostada con mantequilla. // Yo quiero un café con leche y una tostada con mantequilla.
+I like black coffee with sugar. => Me gusta el café solo con azúcar.
+On Sundays I get up at ten. => Los domingos me levanto a las diez.
+The nurse looks after patients in the hospital. => SKIP
+My son gets dressed alone. => Mi hijo se viste solo.
+They watch TV after dinner. => Ven la tele después de cenar. // Ellos ven la tele después de cenar.
+My children always arrive late. => Mis hijos siempre llegan tarde.
+The shops close at midday. => Las tiendas cierran a mediodía. // Las tiendas cierran al mediodía.

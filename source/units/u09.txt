@@ -1,0 +1,171 @@
+@unit 9
+@title Compras
+@title_en Shopping
+@title_fa خرید
+@pages 95-104
+@verbs costar pagar probarse quedar llevar ponerse vender comprar regalar envolver valer pensar ayudar ver conocer invitar
+@tenses
+@topics A ¿Cuánto cuestan estos zapatos? — recursos para ir de compras, pronombres de objeto directo | B Mi novio lleva corbata — los colores, describir la ropa | C Santiago de Chile y Santiago de Compostela — comparativos, demostrativos | D Ciudades y arte español e hispanoamericano
+
+#grammar Pronombres de objeto directo
+fa: برای جلوگیری از تکرار مفعول از ضمیر مفعولی استفاده می‌کنیم: lo (مذکر مفرد)، la (مؤنث مفرد)، los، las، و برای اشخاص me, te, nos, os. ضمیر قبل از فعل صرف‌شده می‌آید، ولی به آخر امری مثبت می‌چسبد (cómpralo) و با مصدر یا gerundio می‌تواند قبل یا بعد بیاید.
+table: objeto directo | me, te, lo/la, nos, os, los/las
+ex: ¿Conoces a Ismael? — No, no lo conozco. | Do you know Ismael? — No, I don't know him.
+ex: Me gusta este jersey, me lo llevo. | I like this jumper, I'll take it.
+ex: Cómpralo, por favor. | Buy it, please.
+ex: Quiero comprarlo. / Lo quiero comprar. | I want to buy it.
+ex: Yo te quiero, ¿tú me quieres? | I love you, do you love me?
+
+#grammar Demostrativos: este, ese, aquel
+fa: سه درجه‌ی فاصله: este (اینجا، نزدیک گوینده)، ese (آنجا، نزدیک شنونده)، aquel (آن دورتر، دور از هر دو). esto, eso, aquello خنثی هستند و با اسم نمی‌آیند؛ برای چیزی که نمی‌دانیم چیست یا یک ایده.
+table: demostrativos | este/esta/estos/estas, ese/esa/esos/esas, aquel/aquella/aquellos/aquellas
+ex: Mira estos zapatos. | Look at these shoes.
+ex: Me gustan más aquellos marrones. | I like those brown ones (over there) more.
+ex: ¿Qué es esto? | What is this?
+ex: Eso no me gusta. | I don't like that.
+
+#grammar Comparativos
+fa: más + صفت + que (بیشتر از)، menos + صفت + que (کمتر از)، tan + صفت + como (به اندازه‌ی). بی‌قاعده‌ها: bueno → mejor، malo → peor، برای سن: mayor (بزرگ‌تر) و menor (کوچک‌تر).
+ex: Juan es más simpático que Pedro. | Juan is nicer than Pedro.
+ex: El taxi es menos barato que el metro. | The taxi is less cheap than the underground.
+ex: Tu coche no es tan rápido como el de Ana. | Your car isn't as fast as Ana's.
+ex: Esta película es mejor que esa. | This film is better than that one.
+ex: Yo soy mayor que ella. | I'm older than her.
+
+#grammar Colores: concordancia
+fa: رنگ‌ها صفت‌اند و با اسم در جنس و تعداد مطابقت می‌کنند (رنگ‌های -o چهار شکل دارند، بقیه دو شکل). رنگ‌هایی که اسم گل یا میوه‌اند (rosa, naranja) معمولاً تغییر نمی‌کنند.
+ex: Tengo unos pantalones marrones. | I have some brown trousers.
+ex: Lleva una camisa blanca. | He's wearing a white shirt.
+ex: unos zapatos naranja | some orange shoes
+
+#vocab De compras
+ir de compras | to go shopping | خرید رفتن
+el centro comercial | shopping centre | مرکز خرید
+el mercadillo | street market | بازارچه
+el probador | fitting room | اتاق پرو
+probarse | to try on | پرو کردن
+quedar bien / mal | to suit / not to suit | اندازه بودن / نبودن، آمدن / نیامدن
+llevarse | to take (buy) | خریدن، بردن
+pagar en efectivo | to pay in cash | نقدی پرداخت کردن
+pagar con tarjeta | to pay by card | با کارت پرداخت کردن
+costar | to cost | قیمت داشتن
+valer | to cost, to be worth | ارزیدن، قیمت داشتن
+rebajado/a | reduced, on sale | تخفیف‌خورده
+las rebajas | the sales | حراج
+la bolsa | bag | کیسه
+la caja | box | جعبه
+el regalo | present | هدیه
+precioso/a | beautiful, lovely | خیلی قشنگ
+cómodo/a | comfortable | راحت
+incómodo/a | uncomfortable | ناراحت
+ancho/a | wide, loose | گشاد، پهن
+estrecho/a | tight, narrow | تنگ، باریک
+elegante | elegant | شیک
+informal | casual | غیررسمی
+
+#vocab Ropa y complementos
+la ropa | clothes | لباس
+la camisa | shirt | پیراهن
+la camiseta | T-shirt | تی‌شرت
+el jersey | jumper, sweater | پلیور
+los pantalones | trousers | شلوار
+los vaqueros | jeans | شلوار جین
+la falda | skirt | دامن
+el vestido | dress | پیراهن زنانه
+el traje | suit | کت و شلوار
+la chaqueta | jacket | کت، کاپشن
+la americana | blazer | کت اسپرت
+el abrigo | coat | پالتو
+la corbata | tie | کراوات
+los zapatos | shoes | کفش
+las botas | boots | چکمه، بوت
+las zapatillas deportivas | trainers | کفش ورزشی
+los calcetines | socks | جوراب
+las medias | tights | جوراب شلواری
+el gorro | woolly hat | کلاه بافتنی
+el sombrero | hat | کلاه
+el cinturón | belt | کمربند
+el bolso | handbag | کیف دستی
+la cartera | wallet | کیف پول
+el anillo | ring | انگشتر
+el collar | necklace | گردنبند
+los pendientes | earrings | گوشواره
+la maleta | suitcase | چمدان
+de lana | woollen | پشمی
+de piel | leather | چرمی
+de lunares | polka-dot | خال‌خالی
+a rayas | striped | راه‌راه
+
+#vocab Colores
+el color | colour | رنگ
+rojo/a | red | قرمز
+amarillo/a | yellow | زرد
+blanco/a | white | سفید
+gris | grey | خاکستری
+rosa | pink | صورتی
+naranja | orange | نارنجی
+morado/a | purple | بنفش
+
+#vocab Comparar ciudades
+más ... que | more ... than | بیشتر از
+menos ... que | less ... than | کمتر از
+tan ... como | as ... as | به اندازه‌ی
+mejor | better | بهتر
+peor | worse | بدتر
+mayor | older, bigger | بزرگ‌تر، مسن‌تر
+menor | younger, smaller | کوچک‌تر
+limpio/a | clean | تمیز
+sucio/a | dirty | کثیف
+seguro/a | safe | امن
+la contaminación | pollution | آلودگی
+la moto | motorbike | موتورسیکلت
+este/esta | this | این
+ese/esa | that | آن (نزدیک تو)
+aquel/aquella | that (over there) | آن (دورتر)
+esto | this (thing) | این (چیز)
+eso | that (thing) | آن (چیز)
+aquello | that (thing over there) | آن (چیز دور)
+allí | there | آنجا
+ahí | there (near you) | آنجا (نزدیک تو)
+el cuadro | painting | تابلو نقاشی
+el pintor / la pintora | painter | نقاش
+
+#phrases
+¿Cuánto cuesta este jersey? | How much is this jumper? | این پلیور چنده؟
+¿Cuánto cuestan estos zapatos? | How much are these shoes? | این کفش‌ها چندن؟
+¿Puedo probármelo? | Can I try it on? | می‌تونم پروش کنم؟
+¿Cómo me queda? | How does it look on me? | بهم میاد؟
+Te queda muy bien. | It looks great on you. | خیلی بهت میاد.
+Me lo llevo. / Me la llevo. | I'll take it. | می‌خرمش.
+¿Qué te parece esta camisa? | What do you think of this shirt? | نظرت درباره‌ی این پیراهن چیه؟
+¿Puedo ayudarle? | Can I help you? | کمکی از دستم برمی‌آید؟
+¿Cómo paga, con tarjeta o en efectivo? | How are you paying, by card or in cash? | چطور پرداخت می‌کنید، کارت یا نقد؟
+¿No tiene otro más barato? | Don't you have a cheaper one? | ارزان‌ترش را ندارید؟
+Es un poco caro. | It's a bit expensive. | یک کم گرون است.
+
+#sentences
+How much are these shoes? => ¿Cuánto cuestan estos zapatos?
+How much is this shirt? => ¿Cuánto cuesta esta camisa?
+Can I try it on? (the jacket) => ¿Puedo probármela?
+How does this skirt look on me? => ¿Cómo me queda esta falda?
+It looks great on you. => Te queda muy bien.
+I like this jumper; I'll take it. => Me gusta este jersey, me lo llevo.
+Are you paying in cash or by card? => ¿Paga en efectivo o con tarjeta? // ¿Pagas en efectivo o con tarjeta? // ¿Cómo paga, en efectivo o con tarjeta?
+Do you know my sister? — No, I don't know her. => ¿Conoces a mi hermana? No, no la conozco.
+Where are my glasses? I can't see them. => ¿Dónde están mis gafas? No las veo.
+I want to buy it. (the car) => Quiero comprarlo. // Lo quiero comprar.
+Buy it, please. (the bread) => Cómpralo, por favor.
+She's wearing a green dress and white shoes. => Lleva un vestido verde y unos zapatos blancos.
+He's wearing jeans and a red jumper. => Lleva unos vaqueros y un jersey rojo. // Lleva vaqueros y un jersey rojo.
+I prefer those brown shoes over there. => Prefiero aquellos zapatos marrones.
+What is this? => ¿Qué es esto?
+I don't like that. => Eso no me gusta. // No me gusta eso.
+The plane is faster than the train. => El avión es más rápido que el tren.
+Madrid is bigger than Toledo. => Madrid es más grande que Toledo.
+The taxi isn't as cheap as the underground. => El taxi no es tan barato como el metro.
+This film is better than that one. => Esta película es mejor que esa.
+My brother is older than me. => Mi hermano es mayor que yo.
+The city is noisier than the village. => La ciudad es más ruidosa que el pueblo.
+I don't have time; I'll think about it. => SKIP
+It's a bit expensive. Don't you have a cheaper one? => Es un poco caro. ¿No tiene otro más barato?
+Yesterday I bought some boots for the trip. => Ayer compré unas botas para el viaje.

@@ -1,0 +1,217 @@
+@unit 2
+@title Familias
+@title_en Families
+@title_fa خانواده
+@pages 25-34
+@verbs estar desayunar cenar abrir cerrar celebrar
+@tenses pres
+@topics A ¿Estás casado? — presentar a la familia, plural de los nombres | B ¿Dónde están mis gafas? — marcadores de lugar, posesivos, demostrativos | C ¿Qué hora es? — horarios, números 21-5000 | D La familia hispana: celebraciones
+
+#grammar Plural de los nombres
+fa: اگر کلمه به مصوت ختم شود s اضافه می‌کنیم؛ اگر به حرف بی‌صدا ختم شود es. حرف z در جمع به c تبدیل می‌شود.
+ex: un libro → dos libros | one book → two books
+ex: un hotel → dos hoteles | one hotel → two hotels
+ex: un lápiz → dos lápices | one pencil → two pencils
+ex: un autobús → dos autobuses | one bus → two buses
+
+#grammar Verbo estar (ubicación y estado civil)
+fa: estar برای مکان چیزها و آدم‌ها (کجا هستند) و برای حالت‌ها استفاده می‌شود، مثل casado و soltero.
+table: estar | estoy, estás, está, estamos, estáis, están
+ex: Pedro está en casa. | Pedro is at home.
+ex: ¿Dónde están mis gafas? | Where are my glasses?
+ex: Mi hermana está casada. | My sister is married.
+
+#grammar Adjetivos posesivos
+fa: صفت ملکی قبل از اسم می‌آید و در تعداد (و برای nuestro/vuestro در جنس هم) با اسم مطابقت می‌کند، نه با مالک.
+table: posesivos | mi/mis, tu/tus, su/sus, nuestro/a/os/as, vuestro/a/os/as, su/sus
+ex: Esta es mi hermana y estos son mis padres. | This is my sister and these are my parents.
+ex: Nuestra casa está cerca de aquí. | Our house is near here.
+
+#grammar Demostrativos: este, esta, estos, estas
+fa: برای اشاره به کسی یا چیزی که نزدیک است. este مذکر مفرد، esta مؤنث مفرد، estos مذکر جمع، estas مؤنث جمع.
+ex: Este es Pedro. Esta es Elena. | This is Pedro. This is Elena.
+ex: Estos son mis compañeros de clase. | These are my classmates.
+
+#grammar Marcadores de lugar
+fa: برای گفتن جای چیزها: estar + حرف اضافه‌ی مکان. de + el ترکیب می‌شود و del می‌شود.
+ex: La planta está debajo de la ventana. | The plant is under the window.
+ex: El sofá está al lado del sillón. | The sofa is next to the armchair.
+ex: El móvil está entre el libro y la lámpara. | The phone is between the book and the lamp.
+
+#grammar La hora
+fa: ¿Qué hora es? = ساعت چند است؟ برای ساعت یک: Es la una. برای بقیه: Son las... دقیقه‌ها بعد از ساعت با y و قبل از ساعت با menos گفته می‌شوند. ¿A qué hora...? = ساعت چند...؟
+ex: Son las siete y veinte. | It's twenty past seven.
+ex: Es la una y media. | It's half past one.
+ex: Son las dos menos cuarto. | It's a quarter to two.
+ex: ¿A qué hora comen en tu país? | What time do people have lunch in your country?
+
+#vocab Familia
+el abuelo / la abuela | grandfather / grandmother | پدربزرگ / مادربزرگ
+los abuelos | grandparents | پدربزرگ و مادربزرگ
+el hermano / la hermana | brother / sister | برادر / خواهر
+los hermanos | siblings, brothers | خواهر و برادرها
+el primo / la prima | cousin | پسرعمو/دخترعمو (پسرخاله، ...)
+el tío / la tía | uncle / aunt | عمو، دایی / عمه، خاله
+el papá / la mamá | dad / mum | بابا / مامان
+la familia | family | خانواده
+el niño / la niña | boy / girl, child | پسربچه / دختربچه
+el chico / la chica | boy / girl, young man / young woman | پسر / دختر (جوان)
+el amigo / la amiga | friend | دوست
+el perro | dog | سگ
+el gato | cat | گربه
+divorciado/a | divorced | طلاق‌گرفته
+el año | year | سال
+tener ... años | to be ... years old | ... سال داشتن (سن)
+cerca de | near | نزدیکِ
+el dependiente / la dependienta | shop assistant | فروشنده (مغازه)
+la tienda | shop | مغازه
+la ropa | clothes | لباس
+
+#vocab Objetos de casa y clase
+la silla | chair | صندلی
+la mesa | table | میز
+la mesita | small table, bedside table | میز کوچک
+el sillón | armchair | مبل تک‌نفره
+el sofá | sofa | کاناپه
+la lámpara | lamp | چراغ، آباژور
+el reloj | watch, clock | ساعت
+el paraguas | umbrella | چتر
+las gafas | glasses | عینک
+las zapatillas | slippers, trainers | دمپایی، کفش ورزشی
+el cuadro | painting, picture | تابلو
+la planta | plant | گیاه
+la ventana | window | پنجره
+la habitación | room, bedroom | اتاق
+la estantería | shelf, bookcase | قفسه
+la televisión | television | تلویزیون
+el libro | book | کتاب
+el cuaderno | notebook | دفتر
+el bolígrafo | pen | خودکار
+el lápiz | pencil | مداد
+el diccionario | dictionary | دیکشنری
+el mapa | map | نقشه
+la mochila | backpack | کوله‌پشتی
+la agenda | diary, planner | دفترچه برنامه
+la cámara | camera | دوربین
+la llave | key | کلید
+el coche | car | ماشین
+el autobús | bus | اتوبوس
+la bicicleta | bicycle | دوچرخه
+el tren | train | قطار
+la chaqueta | jacket | کت، کاپشن
+
+#vocab Marcadores de lugar
+al lado de | next to | کنارِ
+encima de | on, on top of | رویِ
+debajo de | under | زیرِ
+delante de | in front of | جلویِ
+detrás de | behind | پشتِ
+entre | between | بینِ
+a la derecha de | to the right of | سمت راستِ
+a la izquierda de | to the left of | سمت چپِ
+en | in, on, at | در
+
+#vocab La hora y el tiempo
+la hora | hour, time | ساعت، وقت
+el minuto | minute | دقیقه
+el segundo | second | ثانیه
+el día | day | روز
+la semana | week | هفته
+el mes | month | ماه
+el siglo | century | قرن
+la década | decade | دهه
+y media | half past | و نیم
+y cuarto | quarter past | و ربع
+menos cuarto | quarter to | ربع مانده به
+la mañana | morning | صبح
+la tarde | afternoon, evening | بعدازظهر، عصر
+la noche | night | شب
+el mediodía | midday, noon | ظهر
+por la mañana | in the morning | صبح‌ها
+por la tarde | in the afternoon | بعدازظهرها
+por la noche | at night | شب‌ها
+
+#vocab Las comidas
+desayunar | to have breakfast | صبحانه خوردن
+comer | to have lunch, to eat | ناهار خوردن، خوردن
+cenar | to have dinner | شام خوردن
+abrir | to open | باز کردن
+cerrar | to close | بستن
+la farmacia | pharmacy | داروخانه
+la discoteca | nightclub | دیسکو
+la gente | people | مردم
+el cumpleaños | birthday | تولد
+la celebración | celebration | جشن
+el precio | price | قیمت
+
+#vocab Adjetivos
+caro/a | expensive | گران
+barato/a | cheap | ارزان
+interesante | interesting | جالب
+joven | young | جوان
+guapo/a | good-looking | خوش‌قیافه
+famoso/a | famous | معروف
+grande | big | بزرگ
+pequeño/a | small | کوچک
+
+#vocab Números 21-5000
+veintiuno | twenty-one | بیست و یک
+veintidós | twenty-two | بیست و دو
+treinta | thirty | سی
+treinta y uno | thirty-one | سی و یک
+cuarenta | forty | چهل
+cincuenta | fifty | پنجاه
+sesenta | sixty | شصت
+setenta | seventy | هفتاد
+ochenta | eighty | هشتاد
+noventa | ninety | نود
+cien | one hundred | صد
+ciento uno | one hundred and one | صد و یک
+doscientos/as | two hundred | دویست
+trescientos/as | three hundred | سیصد
+cuatrocientos/as | four hundred | چهارصد
+quinientos/as | five hundred | پانصد
+seiscientos/as | six hundred | ششصد
+setecientos/as | seven hundred | هفتصد
+ochocientos/as | eight hundred | هشتصد
+novecientos/as | nine hundred | نهصد
+mil | one thousand | هزار
+dos mil | two thousand | دو هزار
+
+#phrases
+¿Estás casado? / ¿Estás casada? | Are you married? | متأهلی؟
+¿Tienes hermanos? | Do you have brothers and sisters? | خواهر برادر داری؟
+No, no tengo. | No, I don't (have any). | نه، ندارم.
+¿Cuántos años tienes? | How old are you? | چند سالته؟
+Tengo treinta años. | I'm thirty years old. | سی سالمه.
+¿Dónde está...? | Where is...? | ... کجاست؟
+¿Qué hora es? | What time is it? | ساعت چنده؟
+Perdone, ¿qué hora es? | Excuse me, what time is it? | ببخشید، ساعت چند است؟
+¿A qué hora...? | At what time...? | ساعت چند...؟
+a las dos | at two o'clock | ساعت دو
+
+#sentences
+I am married and I have two children. => Estoy casado y tengo dos hijos. // Estoy casada y tengo dos hijos.
+My father is called Manuel and he is fifty-eight years old. => Mi padre se llama Manuel y tiene cincuenta y ocho años.
+How old are you? => ¿Cuántos años tienes?
+Do you have brothers and sisters? => ¿Tienes hermanos?
+I don't have a girlfriend. => No tengo novia.
+Where are my glasses? => ¿Dónde están mis gafas?
+The cat is under the sofa. => El gato está debajo del sofá.
+The phone is next to the computer. => El móvil está al lado del ordenador.
+The lamp is between the sofa and the armchair. => La lámpara está entre el sofá y el sillón.
+These are my parents. => Estos son mis padres.
+This is my cousin Carolina. => Esta es mi prima Carolina.
+Our house is near Madrid. => Nuestra casa está cerca de Madrid.
+Their grandparents live in Seville. => Sus abuelos viven en Sevilla.
+What time is it? => ¿Qué hora es?
+It's twenty past seven. => Son las siete y veinte.
+It's one o'clock. => Es la una.
+It's a quarter to two. => Son las dos menos cuarto.
+In Spain people have lunch at two. => En España la gente come a las dos.
+The banks open in the morning and close in the afternoon. => Los bancos abren por la mañana y cierran por la tarde.
+We have dinner at nine at night. => Cenamos a las nueve de la noche.
+This hotel is very expensive. => Este hotel es muy caro.
+My sister works in a clothes shop. => Mi hermana trabaja en una tienda de ropa.
+The keys are on the table. => Las llaves están encima de la mesa. // Las llaves están en la mesa.
+Is your brother at home? => ¿Tu hermano está en casa? // ¿Está tu hermano en casa?

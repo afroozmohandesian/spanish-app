@@ -1,0 +1,163 @@
+@unit 10
+@title Salud y enfermedad
+@title_en Health and illness
+@title_fa سلامت و بیماری
+@pages 105-114
+@verbs doler preocuparse aconsejar ahorrar fumar entrenar acompañar organizar regalar reunirse sentirse encontrarse cuidar mejorar aprender estudiar
+@tenses imperf ira
+@topics A La salud — partes del cuerpo, hablar de enfermedades, verbo doler, sugerencias | B Antes salíamos con los amigos — hábitos en el pasado, pretérito imperfecto | C Voy a trabajar en un hotel — planes e intenciones, ir a + infinitivo | D El imperio inca — escribir un blog sobre un viaje
+
+#grammar Verbo doler
+fa: doler (o>ue) مثل gustar ساخته می‌شود: عضوی که درد می‌کند فاعل است. اگر مفرد باشد duele و اگر جمع باشد duelen، با ضمیرهای me, te, le, nos, os, les. برای اعضای بدن از حرف تعریف (la, el) استفاده می‌شود نه صفت ملکی.
+table: doler | me duele(n), te duele(n), le duele(n), nos duele(n), os duele(n), les duele(n)
+ex: Me duele la cabeza. | I have a headache.
+ex: A Ana le duelen los oídos. | Ana has earache.
+ex: ¿Te duele la garganta? | Does your throat hurt?
+
+#grammar Sugerencias y consejos
+fa: برای پیشنهاد: ¿Por qué no + فعل حال؟ یا امری (tómate, acuéstate). برای جواب: Sí, es lo mejor.
+ex: ¿Por qué no tomas un analgésico? | Why don't you take a painkiller?
+ex: Tómate un té y acuéstate. | Have a tea and go to bed.
+ex: ¿Qué te pasa? — Me duele el estómago. | What's wrong? — I've got a stomach ache.
+
+#grammar Pretérito imperfecto
+fa: گذشته‌ی استمراری برای عادت‌ها و کارهای تکراری در گذشته (antes, cuando era pequeño, de niño) و برای توصیف در گذشته است. -ar → -aba و -er/-ir → -ía. فقط سه فعل بی‌قاعده دارد: ir, ser, ver.
+table: viajar | viajaba, viajabas, viajaba, viajábamos, viajabais, viajaban
+table: tener | tenía, tenías, tenía, teníamos, teníais, tenían
+table: ir | iba, ibas, iba, íbamos, ibais, iban
+table: ser | era, eras, era, éramos, erais, eran
+table: ver | veía, veías, veía, veíamos, veíais, veían
+ex: Antes salíamos mucho con los amigos. | We used to go out a lot with friends.
+ex: Cuando éramos jóvenes, íbamos a la discoteca. | When we were young, we used to go to the club.
+ex: Mi profesor de Matemáticas era muy simpático. | My maths teacher was very nice.
+
+#grammar Ir a + infinitivo (planes)
+fa: برای برنامه‌ها و قصدهای آینده: ir (حال) + a + مصدر. با کلماتی مثل mañana، el próximo verano، este fin de semana.
+table: ir a + infinitivo | voy a estudiar, vas a estudiar, va a estudiar, vamos a estudiar, vais a estudiar, van a estudiar
+ex: En julio voy a trabajar en un hotel. | In July I'm going to work in a hotel.
+ex: ¿Qué vas a hacer este fin de semana? | What are you going to do this weekend?
+ex: Vamos a visitar París. | We're going to visit Paris.
+
+#vocab El cuerpo
+el cuerpo | body | بدن
+la cabeza | head | سر
+la cara | face | صورت
+el ojo | eye | چشم
+la oreja | ear (outer) | گوش (لاله)
+el oído | ear (inner), hearing | گوش (داخلی)
+la nariz | nose | بینی
+la boca | mouth | دهان
+la muela | molar, back tooth | دندان آسیا
+el diente | tooth | دندان
+el cuello | neck | گردن
+la garganta | throat | گلو
+el hombro | shoulder | شانه
+el brazo | arm | بازو
+la mano | hand | دست
+el dedo | finger | انگشت
+el pecho | chest | سینه
+el estómago | stomach | معده
+la espalda | back | کمر، پشت
+la pierna | leg | پا (ساق)
+la rodilla | knee | زانو
+el pie | foot | پا (کف)
+
+#vocab Salud
+la salud | health | سلامتی
+la enfermedad | illness | بیماری
+doler | to hurt, to ache | درد کردن
+el dolor de cabeza | headache | سردرد
+el dolor de muelas | toothache | دندان‌درد
+la fiebre | fever, temperature | تب
+la gripe | flu | آنفولانزا
+la tos | cough | سرفه
+el resfriado | cold | سرماخوردگی
+el analgésico | painkiller | مسکن
+la pastilla | pill, tablet | قرص
+el jarabe | syrup | شربت
+el termómetro | thermometer | دماسنج
+el análisis de sangre | blood test | آزمایش خون
+el / la dentista | dentist | دندانپزشک
+el / la paciente | patient | بیمار
+la miel | honey | عسل
+caliente | hot | داغ، گرم
+cansado/a | tired | خسته
+fatal | awful, terrible | افتضاح
+estar mejor | to be better | بهتر بودن
+tener mala cara | to look ill | رنگ‌پریده بودن
+¿Qué te pasa? | What's wrong? | چت شده؟
+no te preocupes | don't worry | نگران نباش
+lo mejor | the best thing | بهترین کار
+la dieta | diet | رژیم غذایی
+sano/a | healthy | سالم
+
+#vocab El pasado (hábitos)
+antes | before, in the past | قبلاً
+de pequeño/a | as a child | در کودکی
+cuando era niño/a | when I was a child | وقتی بچه بودم
+la vida | life | زندگی
+feliz | happy | خوشحال
+el bebé | baby | نوزاد
+el equipo | team | تیم
+el partido | match | مسابقه
+la asignatura | subject (school) | درس (مدرسه)
+el idioma | language | زبان
+fumar | to smoke | سیگار کشیدن
+entrenar | to train | تمرین کردن
+la lotería | lottery | بخت‌آزمایی
+millonario/a | millionaire | میلیونر
+
+#vocab Planes
+el plan | plan | برنامه
+el próximo año | next year | سال آینده
+el próximo verano | next summer | تابستان آینده
+el año que viene | next year | سال آینده
+la semana que viene | next week | هفته‌ی آینده
+ahorrar | to save (money) | پس‌انداز کردن
+organizar | to organise | برگزار کردن
+regalar | to give (as a present) | هدیه دادن
+el barco | boat, ship | قایق، کشتی
+la vuelta | return | برگشت
+alrededor del mundo | around the world | دور دنیا
+el curso | course, school year | دوره، سال تحصیلی
+acampar | to camp | کمپ زدن
+la tienda de campaña | tent | چادر
+el blog | blog | وبلاگ
+
+#phrases
+¿Qué te pasa? | What's wrong? | چت شده؟
+Me duele la cabeza. | I've got a headache. | سرم درد می‌کند.
+Me duele todo el cuerpo. | My whole body aches. | تمام بدنم درد می‌کند.
+Creo que tengo fiebre. | I think I have a temperature. | فکر کنم تب دارم.
+¿Por qué no vas al médico? | Why don't you go to the doctor? | چرا دکتر نمی‌ری؟
+Sí, es lo mejor. | Yes, that's the best thing. | آره، این بهترین کاره.
+¡Qué mala cara tienes! | You look terrible! | چه رنگ و رویی داری!
+Me encuentro fatal. | I feel awful. | حالم خیلی بده.
+¿Qué vas a hacer este fin de semana? | What are you going to do this weekend? | آخر هفته می‌خوای چیکار کنی؟
+Cuando era pequeño/a... | When I was little... | وقتی کوچک بودم...
+
+#sentences
+I have a headache. => Me duele la cabeza.
+My feet hurt. => Me duelen los pies.
+Does your throat hurt? => ¿Te duele la garganta?
+What's wrong? — I've got a stomach ache. => ¿Qué te pasa? Me duele el estómago.
+I think I have the flu. => Creo que tengo gripe.
+Why don't you take a painkiller and go to bed? => ¿Por qué no tomas un analgésico y te acuestas?
+Don't worry; if you aren't better tomorrow, we'll go to the doctor. => No te preocupes, si mañana no estás mejor, vamos al médico.
+Before, we used to travel a lot. => Antes viajábamos mucho.
+When I was a child, I lived in a small village. => Cuando era niño, vivía en un pueblo pequeño. // Cuando era niña, vivía en un pueblo pequeño. // Cuando era pequeño, vivía en un pueblo pequeño. // Cuando era pequeña, vivía en un pueblo pequeño.
+We used to go to the cinema every Saturday. => Íbamos al cine todos los sábados. // Todos los sábados íbamos al cine.
+My teacher was very nice. => Mi profesor era muy simpático. // Mi profesora era muy simpática.
+Emilio used to play hockey. => Emilio jugaba al hockey.
+I didn't use to smoke. => SKIP
+I used to smoke a lot, but now I don't smoke. => Antes fumaba mucho, pero ahora no fumo.
+What was your school like? => ¿Cómo era tu colegio?
+My grandparents had a house in the countryside. => Mis abuelos tenían una casa en el campo.
+In July I'm going to work in a hotel. => En julio voy a trabajar en un hotel.
+What are you going to do this weekend? => ¿Qué vas a hacer este fin de semana?
+We are going to visit Paris. => Vamos a visitar París.
+I'm going to save money to travel. => Voy a ahorrar dinero para viajar.
+They are going to buy a car. => Van a comprar un coche.
+Next year I'm going to study Italian. => El próximo año voy a estudiar italiano. // El año que viene voy a estudiar italiano. // El próximo curso voy a estudiar italiano.
+Are you (all) going to celebrate your birthday? => ¿Vais a celebrar tu cumpleaños? // ¿Vais a celebrar vuestro cumpleaños?
+I feel awful. => Me encuentro fatal.

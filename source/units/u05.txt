@@ -1,0 +1,185 @@
+@unit 5
+@title Comer
+@title_en Eating
+@title_fa غذا خوردن
+@pages 55-64
+@verbs gustar encantar querer preferir cortar pelar añadir mezclar cocinar bailar nadar andar viajar montar navegar jugar invitar caminar descansar evitar traer merendar ayudar bajar ordenar limpiar
+@tenses imp
+@topics A Comer fuera de casa — pedir la comida en un restaurante | B ¿Te gusta el cine? — hablar de gustos, actividades de tiempo libre, verbo gustar | C Receta del Caribe — comprender una receta, imperativo | D Comidas de España e Hispanoamérica
+
+#grammar Verbo gustar
+fa: gustar مثل «خوش آمدن» در فارسی است: چیزی که دوست داریم فاعل است. اگر آن چیز مفرد یا یک فعل (مصدر) باشد gusta و اگر جمع باشد gustan. شخص با ضمیر me, te, le, nos, os, les نشان داده می‌شود. a mí, a ti, a él... برای تأکید است.
+table: gustar | me gusta(n), te gusta(n), le gusta(n), nos gusta(n), os gusta(n), les gusta(n)
+ex: A mí me gusta el cine. | I like cinema.
+ex: A mí me gustan las películas de terror. | I like horror films.
+ex: A Elena le gusta viajar. | Elena likes travelling.
+ex: A nosotros no nos gusta el fútbol. | We don't like football.
+
+#grammar Grados de gusto; también / tampoco
+fa: me encanta (خیلی دوست دارم) > me gusta mucho > me gusta bastante > no me gusta mucho > no me gusta > no me gusta nada. برای موافقت با جمله‌ی مثبت: A mí también. با جمله‌ی منفی: A mí tampoco. برای مخالفت: Pues a mí no / Pues a mí sí.
+ex: Me encanta escuchar música. | I love listening to music.
+ex: No me gusta nada ir de compras. | I don't like shopping at all.
+ex: Me encanta el cine. — A mí también. | I love cinema. — Me too.
+ex: No me gusta montar en bicicleta. — A mí tampoco. | I don't like cycling. — Me neither.
+
+#grammar Verbo querer
+fa: querer (e>ie) = خواستن. در رستوران گفتن quiero... عادی است، ولی در جاهای دیگر برای مؤدبانه‌تر بودن quería گفته می‌شود.
+table: querer | quiero, quieres, quiere, queremos, queréis, quieren
+ex: Mamá, quiero un helado. | Mum, I want an ice cream.
+ex: Yo de primero quiero una ensalada. | For the first course I'd like a salad.
+
+#grammar Imperativo afirmativo (regulares)
+fa: امری برای دستور دادن، دستورالعمل (مثلاً دستور پخت)، خواهش و توصیه است. برای tú: شکل سوم شخص مفرد زمان حال (corta, come, abre). برای usted: پایانه‌ی -ar به -e و -er/-ir به -a تبدیل می‌شود (corte, coma, abra). ضمیر مفعولی به آخر فعل می‌چسبد: córtalos.
+table: cortar | corta (tú), corte (usted), cortad (vosotros), corten (ustedes)
+table: comer | come (tú), coma (usted), comed (vosotros), coman (ustedes)
+table: abrir | abre (tú), abra (usted), abrid (vosotros), abran (ustedes)
+ex: Corta la lechuga en trozos pequeños. | Cut the lettuce into small pieces.
+ex: Bebe más de un litro de agua. | Drink more than a litre of water.
+ex: Hable más bajo, por favor. | Speak more quietly, please. (formal)
+
+#vocab En el restaurante
+el restaurante | restaurant | رستوران
+el menú | set menu | منوی روز
+la carta | menu (list of dishes) | منو
+el primer plato | first course | پیش‌غذا
+el segundo plato | main course | غذای اصلی
+el postre | dessert | دسر
+la bebida | drink | نوشیدنی
+la cuenta | bill | صورتحساب
+el camarero / la camarera | waiter / waitress | گارسون
+de primero | for the first course | برای پیش‌غذا
+de segundo | for the main course | برای غذای اصلی
+de postre | for dessert | برای دسر
+fuera de casa | out, away from home | بیرون از خانه
+la tapa | tapa, small snack | تاپاس، غذای کوچک
+la comida rápida | fast food | فست‌فود
+
+#vocab Platos y comida
+la sopa | soup | سوپ
+la ensalada | salad | سالاد
+la ensalada mixta | mixed salad | سالاد مخلوط
+la paella | paella | پائلا
+el gazpacho | gazpacho (cold tomato soup) | گازپاچو (سوپ سرد گوجه)
+la tortilla de patatas | Spanish omelette | املت سیب‌زمینی اسپانیایی
+el arroz | rice | برنج
+el pescado | fish | ماهی (غذا)
+la merluza | hake | ماهی هیک
+el marisco | seafood, shellfish | غذای دریایی
+las gambas | prawns | میگو
+el pollo | chicken | مرغ
+el filete | steak, fillet | استیک
+el chorizo | chorizo (spicy sausage) | سوسیس چوریسو
+la carne | meat | گوشت
+el cordero | lamb | گوشت بره
+las patatas | potatoes | سیب‌زمینی
+la verdura | vegetables | سبزیجات
+la fruta | fruit | میوه
+la sal | salt | نمک
+la pasta | pasta | ماکارونی، پاستا
+el helado | ice cream | بستنی
+la tarta de queso | cheesecake | چیزکیک
+el flan | crème caramel | فلان، کرم کارامل
+a la plancha | grilled | کبابی (روی صفحه)
+al horno | baked, roasted | پخته در فر
+asado/a | roast | کبابی، برشته
+
+#vocab Bebidas
+el agua mineral | mineral water | آب معدنی
+el vino | wine | شراب
+el vino tinto | red wine | شراب قرمز
+la cerveza | beer | آبجو
+el refresco | soft drink | نوشابه
+el batido | milkshake | میلک‌شیک
+
+#vocab En la mesa
+el tenedor | fork | چنگال
+el cuchillo | knife | چاقو
+la cuchara | spoon | قاشق
+la cucharilla | teaspoon | قاشق چای‌خوری
+la servilleta | napkin | دستمال سفره
+la copa | wine glass | جام
+el mantel | tablecloth | رومیزی
+
+#vocab Receta
+la receta | recipe | دستور پخت
+los ingredientes | ingredients | مواد لازم
+el plátano | banana | موز
+la naranja | orange | پرتقال
+el hielo | ice | یخ
+la vainilla | vanilla | وانیل
+la batidora | blender | مخلوط‌کن
+cortar | to cut | بریدن
+pelar | to peel | پوست کندن
+añadir | to add | اضافه کردن
+mezclar | to mix | مخلوط کردن
+cocinar | to cook | آشپزی کردن
+el trozo | piece | تکه
+
+#vocab Tiempo libre
+el tiempo libre | free time | اوقات فراغت
+el cine | cinema | سینما
+la película | film | فیلم
+la comedia | comedy | کمدی
+la película de terror | horror film | فیلم ترسناک
+la película de aventuras | adventure film | فیلم ماجرایی
+la música | music | موسیقی
+el deporte | sport | ورزش
+el fútbol | football | فوتبال
+bailar | to dance | رقصیدن
+nadar | to swim | شنا کردن
+andar | to walk | پیاده‌روی کردن
+viajar | to travel | سفر کردن
+ir de compras | to go shopping | خرید رفتن
+montar en bicicleta | to ride a bike | دوچرخه‌سواری کردن
+navegar por internet | to surf the internet | گشتن در اینترنت
+hacer deporte | to do sport | ورزش کردن
+ir al teatro | to go to the theatre | به تئاتر رفتن
+el campo | countryside | طبیعت، بیرون شهر
+el videojuego | video game | بازی ویدیویی
+el animal | animal | حیوان
+el museo | museum | موزه
+mucho | a lot | خیلی
+bastante | quite, quite a lot | نسبتاً، به اندازه‌ی کافی
+nada | nothing, not at all | اصلاً، هیچ
+tampoco | neither, not either | هم ... نه
+
+#phrases
+¿Qué van a tomar de primero? | What will you have for the first course? | پیش‌غذا چی میل دارید؟
+Yo de primero quiero... | For the first course I'd like... | من برای پیش‌غذا ... می‌خواهم
+¿Y de segundo? | And for the main course? | و غذای اصلی؟
+¿Qué quieren para beber? | What would you like to drink? | برای نوشیدن چی می‌خواهید؟
+¿Me trae la cuenta, por favor? | Can you bring me the bill, please? | لطفاً صورتحساب را بیاورید.
+Sí, ahora mismo. | Yes, right away. | بله، همین الان.
+¿Desea algo más? | Would you like anything else? | چیز دیگری میل دارید؟
+¿Te gusta...? | Do you like...? | ... دوست داری؟
+Me gusta mucho. | I like it a lot. | خیلی دوست دارم.
+A mí también. | Me too. | من هم.
+A mí tampoco. | Me neither. | من هم نه.
+Pues a mí no. | Well, I don't. | ولی من نه.
+
+#sentences
+I like cinema. => Me gusta el cine. // A mí me gusta el cine.
+I like horror films. => Me gustan las películas de terror. // A mí me gustan las películas de terror.
+Elena likes travelling. => A Elena le gusta viajar.
+We don't like football. => No nos gusta el fútbol. // A nosotros no nos gusta el fútbol.
+Do you like dancing? => ¿Te gusta bailar? // ¿A ti te gusta bailar?
+I love listening to music. => Me encanta escuchar música.
+My husband doesn't like shopping at all. => A mi marido no le gusta nada ir de compras.
+I love cinema. — Me too. => Me encanta el cine. A mí también.
+I don't like seafood. — Me neither. => No me gusta el marisco. A mí tampoco.
+They like animals. => Les gustan los animales. // A ellos les gustan los animales. // A ellas les gustan los animales.
+For the first course I'd like a mixed salad. => De primero quiero una ensalada mixta. // Yo de primero quiero una ensalada mixta.
+And for the main course, grilled chicken. => Y de segundo, pollo a la plancha.
+What would you like for dessert? => ¿Qué quiere de postre? // ¿Qué quieres de postre? // ¿Qué quieren de postre?
+Can you bring me the bill, please? => ¿Me trae la cuenta, por favor?
+Yes, right away. => Sí, ahora mismo.
+Can you bring me a napkin, please? => ¿Me trae una servilleta, por favor?
+Peel the bananas and cut them. => Pela los plátanos y córtalos.
+Add the ice and mix. => Añade el hielo y mezcla.
+Drink more than a litre of water every day. => Bebe más de un litro de agua todos los días.
+Open the door, please. => Abre la puerta, por favor. // Abra la puerta, por favor.
+Close the window. => Cierra la ventana. // Cierre la ventana.
+Eat more vegetables! => ¡Come más verdura! // ¡Coma más verdura!
+I want an ice cream. => Quiero un helado.
+We prefer red wine. => Preferimos vino tinto. // Preferimos el vino tinto.
+Do you (all) like Spanish food? => ¿Os gusta la comida española? // ¿A vosotros os gusta la comida española?

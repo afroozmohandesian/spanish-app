@@ -1,0 +1,164 @@
+@unit 6
+@title El barrio
+@title_en The neighbourhood
+@title_fa محله
+@pages 65-74
+@verbs poder tomar cambiar comprar necesitar torcer seguir poner decir sentarse irse hervir pasar encender apagar llamar esperar prestar dejar despertar contestar guardar conectar
+@tenses pres imp
+@topics A ¿Cómo se va a Goya? — pedir información para viajar en transporte público | B Cierra la ventana, por favor — dar instrucciones, pedir favores, imperativos irregulares | C Mi barrio es tranquilo — describir el barrio, ser y estar | D Ciudades mexicanas
+
+#grammar Imperativos irregulares
+fa: فعل‌های امری همان بی‌قاعدگی زمان حال را دارند (cierro → cierra، duermo → duerme). چند فعل امری tú کاملاً بی‌قاعده دارند: hacer → haz، poner → pon، venir → ven، decir → di، salir → sal، tener → ten، ir(se) → ve / vete. برای usted از شکل اول شخص حال ساخته می‌شود: pongo → ponga، hago → haga.
+table: hacer | haz (tú), haga (usted)
+table: poner | pon (tú), ponga (usted)
+table: venir | ven (tú), venga (usted)
+table: decir | di (tú), diga (usted)
+table: seguir | sigue (tú), siga (usted)
+table: torcer | tuerce (tú), tuerza (usted)
+table: sentarse | siéntate (tú), siéntese (usted)
+ex: Cierra la ventana, por favor, tengo frío. | Close the window, please, I'm cold.
+ex: Tome la primera a la derecha y después siga recto. | Take the first on the right and then go straight on.
+ex: Haz los deberes antes de cenar. | Do your homework before dinner.
+ex: Por favor, siéntese. | Please, sit down. (formal)
+
+#grammar Pedir favores de forma indirecta
+fa: امری مستقیم ممکن است تند به نظر برسد. برای مؤدبانه‌تر بودن از ¿Puedes...? / ¿Puede...? + مصدر استفاده می‌کنیم.
+ex: Ven un momento. → ¿Puedes venir un momento? | Come here a moment. → Can you come here a moment?
+ex: Venga a mi oficina. → ¿Puede venir a mi oficina? | Come to my office. → Can you come to my office?
+
+#grammar Ser y estar
+fa: ser برای ویژگی‌ها و خصوصیات (اندازه، رنگ، شخصیت)، ملیت، شغل و مالکیت. estar برای مکان و موقعیت، حالت جسمی و روحی، و همیشه با bien و mal.
+ex: Luis es alto y delgado. | Luis is tall and thin.
+ex: Su casa es pequeña. | His house is small.
+ex: El colegio está en la calle Velázquez. | The school is on Velázquez Street.
+ex: Clara está enferma, tiene gripe. | Clara is ill, she has the flu.
+ex: Hoy estoy muy contenta. | Today I'm very happy.
+ex: Este ejercicio está mal. | This exercise is wrong.
+
+#grammar Conectores: y, pero, porque
+fa: y = و (اضافه کردن)، pero = اما (تضاد)، porque = چون (دلیل). قبل از کلمه‌ای که با i یا hi شروع شود، y به e تبدیل می‌شود.
+ex: Tiene autobuses, pero no tiene metro. | It has buses, but it doesn't have an underground.
+ex: Me gusta porque es muy acogedora. | I like it because it's very welcoming.
+
+#vocab Transporte
+el metro | underground, metro | مترو
+la estación | station | ایستگاه (مترو، قطار)
+la parada | stop (bus) | ایستگاه (اتوبوس)
+la línea | line | خط
+el billete | ticket | بلیت
+la tarjeta | card | کارت
+el plano | street map, plan | نقشه (شهر یا مترو)
+el viaje | trip, journey | سفر
+la máquina | machine | دستگاه
+la entrada | entrance | ورودی
+la salida | exit | خروجی
+el taxi | taxi | تاکسی
+el aparcamiento | car park | پارکینگ
+el avión | plane | هواپیما
+la dirección | direction | جهت، مسیر
+cambiar | to change | عوض کردن
+tomar | to take | گرفتن، سوار شدن
+torcer | to turn | پیچیدن
+seguir recto | to go straight on | مستقیم رفتن
+todo recto | straight ahead | مستقیم
+la primera a la derecha | the first on the right | اولین (خیابان) سمت راست
+
+#vocab Peticiones y órdenes
+encender | to switch on | روشن کردن
+apagar | to switch off | خاموش کردن
+la luz | light | چراغ، نور
+prestar | to lend | قرض دادن
+dejar | to lend, to leave | قرض دادن، گذاشتن
+esperar | to wait | منتظر ماندن
+llamar | to call | زنگ زدن، صدا زدن
+contestar | to answer | جواب دادن
+pasar | to come in, to pass | وارد شدن، رد کردن
+los deberes | homework | تکالیف
+el informe | report | گزارش
+la reunión | meeting | جلسه
+el dinero | money | پول
+la verdad | truth | حقیقت
+la mentira | lie | دروغ
+el ruido | noise | سر و صدا
+el partido | match, game | مسابقه
+tener frío | to be cold | سردش بودن
+tener razón | to be right | حق داشتن
+¿Se puede? | May I come in? | اجازه هست؟
+ahora mismo | right now | همین الان
+
+#vocab El barrio
+el barrio | neighbourhood | محله
+el edificio | building | ساختمان
+la plaza | square | میدان
+el parque | park | پارک
+la iglesia | church | کلیسا
+el mercado | market | بازار
+el tráfico | traffic | ترافیک
+la biblioteca | library | کتابخانه
+enfrente de | opposite | روبه‌روی
+cerca | near, close | نزدیک
+lejos | far | دور
+céntrico/a | central | مرکزی
+tranquilo/a | quiet, calm | آرام
+ruidoso/a | noisy | پرسروصدا
+rápido/a | fast | سریع
+lento/a | slow | کند
+fácil | easy | آسان
+difícil | difficult | سخت
+bueno/a | good | خوب
+malo/a | bad | بد
+bonito/a | pretty, nice | قشنگ
+feo/a | ugly | زشت
+antiguo/a | old (things) | قدیمی
+moderno/a | modern | مدرن
+viejo/a | old | پیر، کهنه
+nuevo/a | new | نو
+abierto/a | open | باز
+cerrado/a | closed | بسته
+alto/a | tall, high | قدبلند، بلند
+delgado/a | thin, slim | لاغر
+enfermo/a | ill, sick | بیمار
+contento/a | happy, pleased | خوشحال
+estrecho/a | narrow | باریک
+animado/a | lively | شلوغ و سرزنده
+mal | badly, wrong | بد، غلط
+porque | because | چون
+
+#phrases
+Perdone, ¿cómo se va a...? | Excuse me, how do I get to...? (formal) | ببخشید، چطور به ... بروم؟
+Perdona, ¿cómo se va de ... a ...? | Excuse me, how do I get from ... to ...? (informal) | ببخشید، چطور از ... به ... بروم؟
+Toma la línea 8 hasta... | Take line 8 to... | خط ۸ را تا ... بگیر.
+Cambia a la línea 4. | Change to line 4. | به خط ۴ عوض کن.
+Es la tercera parada. | It's the third stop. | ایستگاه سوم است.
+¿Cuánto cuesta el billete? | How much is the ticket? | بلیت چند است؟
+¿Puede decirme...? | Can you tell me...? | می‌توانید به من بگویید...؟
+¿Puedes venir un momento? | Can you come here a moment? | می‌تونی یه لحظه بیای؟
+Sí, claro. | Yes, of course. | بله، حتماً.
+¿Cómo es tu barrio? | What is your neighbourhood like? | محله‌ات چطوره؟
+
+#sentences
+Excuse me, how do I get to Goya? => Perdone, ¿cómo se va a Goya? // Perdona, ¿cómo se va a Goya?
+Take line 8 and change to line 4. => Toma la línea 8 y cambia a la línea 4. // Tome la línea 8 y cambie a la línea 4.
+It's the third stop. => Es la tercera parada.
+How much is the ticket? => ¿Cuánto cuesta el billete?
+Can you tell me where the station is? => ¿Puede decirme dónde está la estación? // ¿Puedes decirme dónde está la estación?
+Close the window, please, I'm cold. => Cierra la ventana, por favor, tengo frío.
+Take the first on the right and go straight on. => Toma la primera a la derecha y sigue recto. // Tome la primera a la derecha y siga recto.
+Do your homework before dinner. => Haz los deberes antes de cenar.
+Come here right now! => ¡Ven aquí ahora mismo!
+Please, sit down. (formal) => Por favor, siéntese. // Siéntese, por favor.
+Sit down, Carlos. => Siéntate, Carlos.
+Tell the truth, Pedro. => Di la verdad, Pedro. // Pedro, di la verdad.
+Put the TV on, the match is starting. => Pon la televisión, empieza el partido. // Pon la tele, empieza el partido.
+Switch off the light, please. => Apaga la luz, por favor. // Apague la luz, por favor.
+Can you come to my office? => ¿Puede venir a mi oficina? // ¿Puedes venir a mi oficina?
+My neighbourhood is quiet but central. => Mi barrio es tranquilo pero céntrico. // Mi barrio es tranquilo, pero céntrico.
+The hospital is far from my house. => El hospital está lejos de mi casa.
+The bank is opposite my office. => El banco está enfrente de mi oficina.
+The underground is faster than the bus. => El metro es más rápido que el autobús.
+The shops are closed on Sundays. => Las tiendas están cerradas los domingos.
+Today I'm very happy. => Hoy estoy muy contento. // Hoy estoy muy contenta.
+This exercise is wrong. => Este ejercicio está mal.
+Clara is ill. => Clara está enferma.
+There is a lot of traffic in my street. => Hay mucho tráfico en mi calle.
+I like my neighbourhood because it has a lot of shops. => Me gusta mi barrio porque tiene muchas tiendas.

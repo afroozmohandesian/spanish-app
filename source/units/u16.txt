@@ -1,0 +1,136 @@
+@unit 16
+@title Consejos
+@title_en Advice
+@title_fa توصیه‌ها
+@pages 165-174
+@verbs quemarse ponerse quitarse tirar respetar tumbarse dar dudar motivar valorar delegar esperar desear mejorarse aprovechar descansar tener ser ir venir poder poner salir dormir
+@tenses impneg subj
+@topics A Este verano, salud — dar consejos e instrucciones, imperativo afirmativo y negativo, ir al médico | B Mi jefe está de mal humor — estados de ánimo, ser / estar | C ¡Que te mejores! — expresar deseos, presente de subjuntivo | D Hábitos saludables
+
+#grammar Imperativo afirmativo y negativo
+fa: امری منفی = no + شکل subjuntivo: no entres، no bebas، no salgas، no te bañes. در امری مثبت ضمیرها به آخر فعل می‌چسبند (dúchate، dámelo، póngase)، ولی در امری منفی قبل از فعل و جدا می‌آیند (no te duches، no me lo des).
+table: entrar | entra / no entres (tú), entre / no entre (usted)
+table: beber | bebe / no bebas (tú), beba / no beba (usted)
+table: salir | sal / no salgas (tú), salga / no salga (usted)
+table: poner | pon / no pongas (tú), ponga / no ponga (usted)
+ex: Dúchate antes de entrar en la piscina. | Have a shower before getting into the pool.
+ex: No te bañes después de comer. | Don't swim after eating.
+ex: Ponte crema protectora. / No te pongas el bañador rojo. | Put on sun cream. / Don't put on the red swimsuit.
+ex: Lucía, no te sientes ahí. | Lucía, don't sit there.
+
+#grammar Estar + adjetivo (estados de ánimo)
+fa: بعضی صفت‌ها که حالت روحی‌اند همیشه با estar می‌آیند: deprimido، harto، enfadado، enamorado، preocupado، de buen/mal humor. بعضی صفت‌ها با ser و estar دو معنی کاملاً متفاوت دارند: ser listo (باهوش) / estar listo (آماده)، ser bueno (خوش‌قلب) / estar bueno (سالم، خوشمزه)، ser despierto (زرنگ) / estar despierto (بیدار).
+ex: Mi jefe está de mal humor. | My boss is in a bad mood.
+ex: Estoy harta de limpiar la casa. | I'm fed up with cleaning the house.
+ex: Manu es listo. / Manu, ¿estás listo para salir? | Manu is clever. / Manu, are you ready to go out?
+ex: Estos macarrones están buenísimos. | This macaroni is delicious.
+
+#grammar Presente de subjuntivo: expresar deseos
+fa: subjuntivo حال: -ar → -e، -er/-ir → -a (برعکس حال اخباری). بی‌قاعدگی‌ها از اول شخص زمان حال می‌آیند (tengo → tenga، pongo → ponga) و بی‌قاعده‌های خاص: ser → sea، ir → vaya. کاربرد: آرزوهای کوتاه با ¡Que...! و بعد از فعل‌های آرزو (espero que، quiero que) وقتی فاعل دو بخش متفاوت باشد. اگر فاعل یکی باشد، مصدر می‌آید.
+table: descansar | descanse, descanses, descanse, descansemos, descanséis, descansen
+table: comer | coma, comas, coma, comamos, comáis, coman
+table: tener | tenga, tengas, tenga, tengamos, tengáis, tengan
+table: ser | sea, seas, sea, seamos, seáis, sean
+table: ir | vaya, vayas, vaya, vayamos, vayáis, vayan
+ex: ¡Que te mejores! | Get well soon!
+ex: ¡Que tengas buen viaje! | Have a good trip!
+ex: Espero que vengas a mi boda. | I hope you come to my wedding.
+ex: Espero descansar bien esta noche. | I hope to rest well tonight.
+
+#vocab Salud y consejos
+el consejo | piece of advice | توصیه
+la crema protectora | sun cream | کرم ضدآفتاب
+tomar el sol | to sunbathe | آفتاب گرفتن
+quemarse | to get sunburnt, to burn oneself | آفتاب‌سوخته شدن، سوختن
+la piscina | swimming pool | استخر
+el bañador | swimsuit | مایو
+la papelera | wastepaper bin | سطل زباله
+tirar | to throw (away) | دور انداختن
+la señal | sign | علامت
+el peligro | danger | خطر
+el líquido | liquid | مایعات
+la tos | cough | سرفه
+me pican los ojos | my eyes are itchy | چشمانم می‌خارد
+hacer reposo | to rest | استراحت کردن
+tumbarse | to lie down | دراز کشیدن
+la camilla | examination couch | تخت معاینه
+la receta | prescription | نسخه
+cada ocho horas | every eight hours | هر هشت ساعت
+la tensión alta | high blood pressure | فشار خون بالا
+saludable | healthy | سالم
+el hábito | habit | عادت
+abundante | big, plentiful | زیاد، مفصل
+
+#vocab Estados de ánimo
+de buen humor | in a good mood | سرحال
+de mal humor | in a bad mood | بداخلاق، بدحال
+deprimido/a | depressed | افسرده
+triste | sad | غمگین
+animado/a | in good spirits | سرحال، پرانرژی
+enamorado/a | in love | عاشق
+agobiado/a | overwhelmed, stressed | تحت فشار
+asustado/a | frightened | ترسیده
+raro/a | strange | عجیب
+harto/a | fed up | کلافه، خسته
+listo/a | clever; ready | باهوش؛ آماده
+despierto/a | awake; sharp | بیدار؛ زرنگ
+honesto/a | honest | صادق
+comprensivo/a | understanding | فهمیده
+
+#vocab Estado de las cosas
+lleno/a | full | پر
+vacío/a | empty | خالی
+sucio/a | dirty | کثیف
+limpio/a | clean | تمیز
+roto/a | broken | شکسته، خراب
+estropeado/a | broken down | خراب
+ocupado/a | busy, occupied | اشغال، مشغول
+desordenado/a | messy | نامرتب
+reservado/a | reserved | رزروشده
+frío/a | cold | سرد
+
+#vocab Deseos
+¡Que te mejores! | Get well soon! | زود خوب شی!
+¡Que tengas buen viaje! | Have a good trip! | سفر خوش!
+¡Que aproveche! | Enjoy your meal! | نوش جان!
+¡Que seáis felices! | Be happy! (to a couple) | خوشبخت باشید!
+¡Que cumplas muchos más! | Many happy returns! | صد ساله شی!
+¡Que te diviertas! | Have fun! | خوش بگذره!
+¡Que descanses! | Sleep well!, Have a good rest! | خوب استراحت کن!
+esperar que | to hope that | امیدوار بودن که
+desear | to wish | آرزو کردن
+
+#phrases
+¿Qué le pasa? | What's the matter? (formal) | چه مشکلی دارید؟
+¿Cuánto tiempo hace que le pasa? | How long has this been happening? | چند وقت است این‌طور هستید؟
+Vera, es que no puedo dormir. | Well, the thing is I can't sleep. | راستش نمی‌توانم بخوابم.
+Tómese una pastilla cada ocho horas. | Take a pill every eight hours. | هر هشت ساعت یک قرص بخورید.
+Si no se le pasa, vuelva a verme. | If it doesn't go away, come back and see me. | اگر خوب نشد، دوباره پیش من بیایید.
+¿Cómo estás hoy? | How are you today? | امروز حالت چطوره؟
+Estoy de buen humor. | I'm in a good mood. | سرحالم.
+
+#sentences
+Have a shower before getting into the pool. => Dúchate antes de entrar en la piscina.
+Don't swim after a big meal. => No te bañes después de una comida abundante. // No te bañes después de comer.
+Put on sun cream. => Ponte crema protectora. // Póngase crema protectora.
+Don't put on the red swimsuit. => No te pongas el bañador rojo.
+Give me the towel. => Dame la toalla.
+Don't give it to me. (the book) => No me lo des.
+Don't sit there, Lucía. => No te sientes ahí, Lucía. // Lucía, no te sientes ahí.
+Don't go out today; rest. => No salgas hoy, descansa. // No salga hoy, descanse.
+Drink more water and don't drink coffee. => Bebe más agua y no bebas café.
+Don't worry. => No te preocupes. // No se preocupe.
+My boss is in a bad mood. => Mi jefe está de mal humor.
+I'm fed up with cleaning the house. => Estoy harto de limpiar la casa. // Estoy harta de limpiar la casa.
+She is in love. => Está enamorada. // Ella está enamorada.
+Are you ready to go out? => ¿Estás listo para salir? // ¿Estás lista para salir?
+This coffee is very hot. => Este café está muy caliente.
+The fridge is empty. => La nevera está vacía. // El frigorífico está vacío.
+The lift is broken again. => El ascensor está estropeado otra vez.
+Get well soon! => ¡Que te mejores!
+Have a good trip! => ¡Que tengas buen viaje!
+I hope you come to my wedding. => Espero que vengas a mi boda.
+I hope you rest well. => Espero que descanses bien.
+I hope to rest well tonight. => Espero descansar bien esta noche.
+My parents hope my sister goes to university. => Mis padres esperan que mi hermana vaya a la universidad.
+Many happy returns! => ¡Que cumplas muchos más!

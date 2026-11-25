@@ -1,0 +1,133 @@
+@unit 15
+@title Cocinar
+@title_en Cooking
+@title_fa آشپزی
+@pages 155-164
+@verbs vender reciclar servir cocer picar freír trocear machacar lavar revolver reposar echar quedar enviar cuidar
+@tenses
+@topics A Segunda mano — comprar y vender por internet, mediación oral | B En la compra — expresar cantidades, indefinidos (algo, nada, alguien, nadie, algún, ningún) | C Cocina fácil — dar instrucciones de forma impersonal (se + verbo) | D La dieta mediterránea
+
+#grammar Indefinidos: algo, nada, alguien, nadie
+fa: برای اشخاص: alguien (کسی) / nadie (هیچ‌کس). برای اشیاء: algo (چیزی) / nada (هیچ‌چیز). این‌ها تغییر نمی‌کنند. در جمله‌ی منفی، no قبل از فعل و nada/nadie بعد از فعل می‌آید (نفی دوگانه).
+ex: ¿Ha llamado alguien? — No, no ha llamado nadie. | Has anyone called? — No, nobody has called.
+ex: ¿Quiere usted tomar algo? — No, gracias, no me apetece nada. | Would you like something? — No, thanks, I don't feel like anything.
+
+#grammar Indefinidos: algún / ningún
+fa: alguno/a/os/as (چند تا، بعضی) و ninguno/a (هیچ کدام) با اسم مطابقت می‌کنند. قبل از اسم مذکر مفرد o را از دست می‌دهند: algún، ningún. ninguno معمولاً جمع بسته نمی‌شود.
+ex: ¿Tienes alguna revista de coches? — No, no tengo ninguna. | Do you have any car magazines? — No, I don't have any.
+ex: No queda ningún sitio libre. | There isn't a single free seat left.
+ex: ¿Te queda algún bocadillo? — No, no me queda ninguno. | Do you have any sandwiches left? — No, none left.
+
+#grammar Se impersonal (instrucciones y hechos generales)
+fa: وقتی فاعل مهم نیست یا مشخص نیست: se + فعل سوم شخص. اگر اسم بعدی جمع باشد فعل هم جمع است. در دستور پخت و دستورالعمل‌ها و برای عادت‌های کلی استفاده می‌شود.
+ex: Se venden casas. | Houses for sale.
+ex: En España se cena a las diez de la noche. | In Spain people have dinner at ten at night.
+ex: Se pican y se fríen los ajos. | The garlic is chopped and fried.
+ex: Se lavan las gambas con agua fría. | Wash the prawns in cold water.
+
+#vocab Segunda mano
+de segunda mano | second-hand | دست دوم
+usado/a | used | کارکرده
+vender | to sell | فروختن
+el vendedor / la vendedora | seller | فروشنده
+el comprador / la compradora | buyer | خریدار
+el anuncio | advertisement | آگهی
+la marca | brand | مارک، برند
+el estado | condition | وضعیت
+en perfecto estado | in perfect condition | در وضعیت عالی
+sin estrenar | brand new, unused | نو و استفاده‌نشده
+la garantía | guarantee | ضمانت
+reciclar | to recycle | بازیافت کردن
+el dueño / la dueña | owner | صاحب
+ligero/a | light | سبک
+sencillo/a | simple | ساده
+la talla | size | سایز
+la sudadera | sweatshirt | سویشرت
+la bicicleta eléctrica | electric bike | دوچرخه‌ی برقی
+¿Te viene bien...? | Does ... suit you? | ... برات خوبه؟
+
+#vocab Frutas y verduras
+la manzana | apple | سیب
+la pera | pear | گلابی
+la fresa | strawberry | توت‌فرنگی
+el melocotón | peach | هلو
+las uvas | grapes | انگور
+la zanahoria | carrot | هویج
+la lechuga | lettuce | کاهو
+el pimiento | pepper | فلفل دلمه‌ای
+la coliflor | cauliflower | گل‌کلم
+las judías verdes | green beans | لوبیا سبز
+los guisantes | peas | نخود فرنگی
+la cebolla | onion | پیاز
+el ajo | garlic | سیر
+el diente de ajo | garlic clove | حبه‌ی سیر
+el kilo | kilo | کیلو
+medio kilo | half a kilo | نیم کیلو
+el puesto | stall | غرفه
+la bolsa | bag | کیسه
+
+#vocab Indefinidos
+algo | something, anything | چیزی
+nada | nothing, (not) anything | هیچ چیز
+alguien | someone, anyone | کسی
+nadie | nobody, (not) anyone | هیچ کس
+alguno/a | some, any | یکی، بعضی
+algún | some, any (before m. noun) | یک ... ای
+ninguno/a | none, not any | هیچ کدام
+ningún | no, not any (before m. noun) | هیچ ... ای
+
+#vocab Cocina
+cocer | to boil, to cook | پختن (در آب)
+picar | to chop | خرد کردن
+freír | to fry | سرخ کردن
+trocear | to cut into pieces | تکه‌تکه کردن
+machacar | to crush | له کردن، کوبیدن
+lavar | to wash | شستن
+servir | to serve | سرو کردن
+revolver | to stir | هم زدن
+reposar | to rest | استراحت دادن (غذا)
+echar | to add, to pour | ریختن
+a fuego lento | over a low heat | با حرارت ملایم
+los mejillones | mussels | صدف
+el calamar | squid | ماهی مرکب
+el salmón | salmon | ماهی سالمون
+la ternera | veal, beef | گوشت گوساله
+el aperitivo | appetiser, aperitif | پیش‌غذا
+la caña | small draught beer | لیوان کوچک آبجو
+soso/a | bland | بی‌نمک
+la dieta mediterránea | Mediterranean diet | رژیم مدیترانه‌ای
+
+#phrases
+¿Qué desea? | What would you like? | چه می‌خواهید؟
+Quería unas naranjas. | I'd like some oranges. | چند تا پرتقال می‌خواستم.
+¿Cuántas quiere? | How many would you like? | چند تا می‌خواهید؟
+Aquí las tiene. | Here you are. | بفرمایید.
+¿Algo más? | Anything else? | چیز دیگری؟
+No, gracias, nada más. | No, thanks, nothing else. | نه، ممنون، چیز دیگری نه.
+¿Cuánto es? | How much is it? | چقدر می‌شود؟
+Lo siento, no me queda ninguna. | Sorry, I don't have any left. | متأسفم، هیچی برام نمونده.
+Pónganos dos cañas. | Two small beers, please. | دو تا آبجو بدهید.
+
+#sentences
+Has anyone called? => ¿Ha llamado alguien?
+No, nobody has called this morning. => No, esta mañana no ha llamado nadie.
+Would you like something to drink? => ¿Quiere tomar algo? // ¿Quieres tomar algo? // ¿Quiere beber algo? // ¿Quieres beber algo?
+No, thanks, I don't want anything. => No, gracias, no quiero nada.
+Do you have any car magazines? — No, I don't have any. => ¿Tienes alguna revista de coches? No, no tengo ninguna.
+There isn't a single free seat. => No hay ningún sitio libre. // No queda ningún sitio libre.
+Is there anyone upstairs? => ¿Hay alguien arriba?
+I'd like some oranges for juice. => Quería unas naranjas de zumo.
+I'd like two kilos of potatoes and a lettuce. => Quería dos kilos de patatas y una lechuga.
+Anything else? — No, thanks. How much is it? => ¿Algo más? No, gracias. ¿Cuánto es?
+Can you give me a bag, please? => ¿Puede darme una bolsa, por favor? // ¿Me da una bolsa, por favor?
+I'm selling a second-hand bike. => Vendo una bicicleta de segunda mano.
+The table is in perfect condition. => La mesa está en perfecto estado.
+Houses for sale. => Se venden casas.
+In Spain people have dinner at ten. => En España se cena a las diez.
+The onion is chopped and fried in hot oil. => Se pica la cebolla y se fríe en aceite caliente.
+Wash the prawns with cold water. => Se lavan las gambas con agua fría.
+The paella is served after resting for a few minutes. => SKIP
+Leave it to cook over a low heat. => Se deja cocer a fuego lento.
+The salmon is a bit bland. => El salmón está un poco soso.
+I haven't seen anybody. => No he visto a nadie.
+Does Saturday suit you? => ¿Te viene bien el sábado?

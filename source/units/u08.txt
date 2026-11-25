@@ -1,0 +1,182 @@
+@unit 8
+@title De vacaciones
+@title_en On holiday
+@title_fa در تعطیلات
+@pages 85-94
+@verbs girar cruzar nacer visitar acabar atender pasar comprar llevar llover nevar esquiar subir ganar mandar recomendar disfrutar ser estar hacer ir
+@tenses indef
+@topics A Por favor, ¿para ir a la catedral? — preguntar e indicar cómo se va a un lugar, establecimientos | B ¿Qué hizo Rosa ayer? — pretérito indefinido regular e irregular | C ¿Qué tiempo hace hoy? — el tiempo, los meses y las estaciones | D De vacaciones por España
+
+#grammar Pretérito indefinido: verbos regulares
+fa: گذشته‌ی ساده برای کارهایی است که در زمان مشخصی در گذشته تمام شده‌اند: ayer، anoche، el lunes pasado، la semana pasada، el año pasado، en 2010. توجه: nosotros در -ar و -ir با زمان حال یکسان است (trabajamos, salimos). علامت تکیه مهم است: hablo (حال، من) / habló (گذشته، او).
+table: trabajar | trabajé, trabajaste, trabajó, trabajamos, trabajasteis, trabajaron
+table: comer | comí, comiste, comió, comimos, comisteis, comieron
+table: salir | salí, saliste, salió, salimos, salisteis, salieron
+ex: Ayer trabajé mucho. | Yesterday I worked a lot.
+ex: Salió de casa a las ocho de la mañana. | She left home at eight in the morning.
+ex: Anoche cenamos con María. | Last night we had dinner with María.
+
+#grammar Pretérito indefinido: irregulares (ir/ser, estar, hacer)
+fa: ir و ser در گذشته‌ی ساده یک شکل دارند و معنی از جمله فهمیده می‌شود. estar و hacer ریشه‌ی جدید دارند و تکیه نمی‌گیرند.
+table: ir / ser | fui, fuiste, fue, fuimos, fuisteis, fueron
+table: estar | estuve, estuviste, estuvo, estuvimos, estuvisteis, estuvieron
+table: hacer | hice, hiciste, hizo, hicimos, hicisteis, hicieron
+ex: El sábado fui al cine. | On Saturday I went to the cinema.
+ex: El verano pasado estuve en Cancún. | Last summer I was in Cancún.
+ex: ¿Qué hiciste ayer? | What did you do yesterday?
+ex: Ayer fue mi cumpleaños. | Yesterday was my birthday.
+
+#grammar Indicar el camino
+fa: برای راهنمایی از امری استفاده می‌کنیم (tú یا usted): sigue / siga todo recto، gira / gire a la derecha، toma / tome la segunda a la izquierda. al final de la calle = ته خیابان.
+ex: Al salir del hotel gire a la derecha y siga todo recto. | When you leave the hotel turn right and go straight on.
+ex: Tome la tercera calle a la derecha. | Take the third street on the right.
+ex: Perdone, ¿para ir a la catedral? | Excuse me, how do I get to the cathedral?
+
+#grammar El tiempo meteorológico
+fa: برای آب و هوا از hacer (hace frío / calor / sol / viento / buen tiempo / mal tiempo)، estar (está nublado، está lloviendo) و فعل‌های llover (llueve) و nevar (nieva) استفاده می‌کنیم. گذشته: hizo frío، llovió، nevó.
+ex: ¿Qué tiempo hace hoy? — Hace sol. | What's the weather like today? — It's sunny.
+ex: Ayer hizo mucho frío. | Yesterday it was very cold.
+ex: En otoño a veces llueve y hace viento. | In autumn it sometimes rains and it's windy.
+
+#vocab Establecimientos y objetos
+la farmacia | pharmacy | داروخانه
+la oficina de correos | post office | اداره‌ی پست
+la comisaría | police station | کلانتری
+el estanco | tobacconist's (sells stamps) | دکه‌ی دخانیات و تمبر
+el quiosco | kiosk, newsstand | دکه‌ی روزنامه‌فروشی
+la catedral | cathedral | کلیسای جامع
+el monasterio | monastery | صومعه
+la medicina | medicine | دارو
+la carta | letter | نامه
+el paquete | parcel, package | بسته
+el sello | stamp | تمبر
+la revista | magazine | مجله
+el tabaco | tobacco, cigarettes | سیگار، تنباکو
+el pasaporte | passport | گذرنامه
+el policía | policeman | پلیس
+la avenida | avenue | خیابان اصلی، بلوار
+la esquina | corner | نبش
+girar | to turn | پیچیدن
+cruzar | to cross | رد شدن، عبور کردن
+al final de | at the end of | در انتهای
+cercano/a | nearby, nearest | نزدیک‌ترین
+disculpe | excuse me (formal) | ببخشید (رسمی)
+
+#vocab Expresiones de pasado
+ayer | yesterday | دیروز
+anoche | last night | دیشب
+anteayer | the day before yesterday | پریروز
+el lunes pasado | last Monday | دوشنبه‌ی گذشته
+la semana pasada | last week | هفته‌ی گذشته
+el mes pasado | last month | ماه گذشته
+el año pasado | last year | سال گذشته
+el verano pasado | last summer | تابستان گذشته
+por primera vez | for the first time | برای اولین بار
+al día siguiente | the next day | روز بعد
+cansado/a | tired | خسته
+diferente | different | متفاوت
+nacer | to be born | به دنیا آمدن
+visitar | to visit | بازدید کردن
+acabar | to finish | تمام کردن
+conocer | to meet, to get to know | آشنا شدن، شناختن
+
+#vocab El tiempo
+el tiempo | weather, time | آب و هوا، زمان
+hace frío | it's cold | سرد است
+hace calor | it's hot | گرم است
+hace sol | it's sunny | آفتابی است
+hace viento | it's windy | باد می‌آید
+hace buen tiempo | the weather is good | هوا خوب است
+hace mal tiempo | the weather is bad | هوا بد است
+está nublado | it's cloudy | ابری است
+llover | to rain | باران باریدن
+llueve | it rains, it's raining | باران می‌بارد
+nevar | to snow | برف باریدن
+nieva | it snows | برف می‌بارد
+la lluvia | rain | باران
+la nieve | snow | برف
+el sol | sun | خورشید
+el viento | wind | باد
+el cielo | sky | آسمان
+la temperatura | temperature | دما
+el abrigo | coat | پالتو
+
+#vocab Meses y estaciones
+enero | January | ژانویه
+febrero | February | فوریه
+marzo | March | مارس
+abril | April | آوریل
+mayo | May | مه
+junio | June | ژوئن
+julio | July | ژوئیه
+agosto | August | اوت
+septiembre | September | سپتامبر
+octubre | October | اکتبر
+noviembre | November | نوامبر
+diciembre | December | دسامبر
+la primavera | spring | بهار
+el verano | summer | تابستان
+el otoño | autumn | پاییز
+el invierno | winter | زمستان
+la estación | season | فصل
+
+#vocab Vacaciones y fiestas
+el viaje | trip | سفر
+la excursión | day trip, excursion | گردش یک‌روزه
+la costa | coast | ساحل، کرانه
+el río | river | رودخانه
+el paisaje | landscape | منظره
+el monumento | monument | بنای تاریخی
+el espectáculo | show | نمایش
+esquiar | to ski | اسکی کردن
+subir | to go up, to climb | بالا رفتن
+la Navidad | Christmas | کریسمس
+el Año Nuevo | New Year | سال نو
+la Semana Santa | Easter week | هفته‌ی عید پاک
+el carnaval | carnival | کارناوال
+la vela | candle | شمع
+el traje | suit, costume | لباس، کت و شلوار
+la foto | photo | عکس
+hacer fotos | to take photos | عکس گرفتن
+dar un paseo | to go for a walk | قدم زدن
+
+#phrases
+Perdone, ¿para ir a...? | Excuse me, how do I get to...? | ببخشید، برای رفتن به ...؟
+¿Puede decirme dónde está la farmacia más cercana? | Can you tell me where the nearest pharmacy is? | می‌توانید بگویید نزدیک‌ترین داروخانه کجاست؟
+Siga todo recto. | Go straight on. | مستقیم بروید.
+Gire a la izquierda. | Turn left. | به چپ بپیچید.
+Tome la segunda a la derecha. | Take the second on the right. | دومی سمت راست را بگیرید.
+¡Cómo no! | Of course! | حتماً!
+¿Qué hiciste ayer? | What did you do yesterday? | دیروز چیکار کردی؟
+¿Adónde fuiste el sábado? | Where did you go on Saturday? | شنبه کجا رفتی؟
+¿Qué tiempo hace? | What's the weather like? | هوا چطوره؟
+¿Qué tiempo hizo ayer? | What was the weather like yesterday? | دیروز هوا چطور بود؟
+¿Cuándo es tu cumpleaños? | When is your birthday? | تولدت کیه؟
+
+#sentences
+Excuse me, how do I get to the cathedral? => Perdone, ¿para ir a la catedral? // Perdone, ¿cómo se va a la catedral? // Perdona, ¿cómo se va a la catedral?
+Turn right and go straight on. => Gire a la derecha y siga todo recto. // Gira a la derecha y sigue todo recto. // Gire a la derecha y siga recto. // Gira a la derecha y sigue recto.
+Take the second street on the left. => Tome la segunda calle a la izquierda. // Toma la segunda calle a la izquierda.
+Where is the nearest pharmacy? => ¿Dónde está la farmacia más cercana?
+Yesterday I worked a lot. => Ayer trabajé mucho.
+Last night we had dinner in a Peruvian restaurant. => Anoche cenamos en un restaurante peruano.
+She left home at eight in the morning. => Salió de casa a las ocho de la mañana. // Ella salió de casa a las ocho de la mañana.
+What did you do yesterday? => ¿Qué hiciste ayer?
+On Saturday I went to the cinema. => El sábado fui al cine.
+I didn't go out, I stayed at home. => No salí, me quedé en casa.
+Last summer we were in Granada. => El verano pasado estuvimos en Granada.
+We visited the Alhambra. => Visitamos la Alhambra.
+Did you buy the newspaper yesterday? => ¿Compraste el periódico ayer? // ¿Ayer compraste el periódico?
+They arrived late to the meeting. => Llegaron tarde a la reunión.
+Last year I travelled by plane for the first time. => El año pasado viajé en avión por primera vez.
+I was born in Tehran. => Nací en Teherán.
+Yesterday was my birthday. => Ayer fue mi cumpleaños.
+The trip was very interesting. => El viaje fue muy interesante.
+What's the weather like today? => ¿Qué tiempo hace hoy?
+It's cold and it's cloudy. => Hace frío y está nublado.
+In summer it's very hot. => En verano hace mucho calor.
+Yesterday it rained a lot. => Ayer llovió mucho.
+It snows in winter. => En invierno nieva. // Nieva en invierno.
+My birthday is in spring, on the tenth of April. => Mi cumpleaños es en primavera, el diez de abril.
+We spent the day skiing. => SKIP
+The next day we went up to the mountains. => Al día siguiente subimos a la montaña.

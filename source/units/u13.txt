@@ -1,0 +1,132 @@
+@unit 13
+@title Tiempo libre
+@title_en Free time
+@title_fa اوقات فراغت
+@pages 135-144
+@verbs alquilar buscar dirigir tratar reservar molestar preocupar dar dejar regalar traer enviar entregar vender ganar coger
+@tenses cond
+@topics A Un lugar para vivir — expresar deseos (me gustaría + infinitivo), alquilar una casa | B ¿Qué has hecho el fin de semana? — cine y tiempo libre, pretérito indefinido vs. perfecto | C ¿Quién te lo ha regalado? — pronombres de objeto directo e indirecto | D Cine y series en español, fiestas tradicionales
+
+#grammar Me gustaría + infinitivo
+fa: برای بیان آرزو و خواسته (محتمل یا نامحتمل) از شکل شرطی gustar استفاده می‌کنیم: me, te, le, nos, os, les + gustaría + مصدر. این مؤدبانه‌تر از quiero است.
+table: gustaría | me gustaría, te gustaría, le gustaría, nos gustaría, os gustaría, les gustaría
+ex: Me gustaría vivir en el campo. | I'd like to live in the countryside.
+ex: ¿Te gustaría ir al concierto del sábado? | Would you like to go to Saturday's concert?
+ex: A Lucía le gustaría cambiar de trabajo. | Lucía would like to change jobs.
+
+#grammar Pretérito perfecto vs. pretérito indefinido
+fa: در اسپانیا: perfecto برای زمانی که هنوز ادامه دارد (hoy، esta semana، este año، últimamente، ya، todavía no) و وقتی زمان مشخص نیست. indefinido برای زمانی که مشخص و تمام‌شده است (ayer، el año pasado، hace dos meses، en julio). در مکالمه هر دو با هم می‌آیند.
+ex: ¿Has llamado a tu madre? — Sí, la llamé ayer por la tarde. | Have you called your mother? — Yes, I called her yesterday afternoon.
+ex: Este año hemos vendido menos coches que el año pasado. | This year we've sold fewer cars than last year.
+ex: El año pasado fuimos de viaje a Brasil. | Last year we went on a trip to Brazil.
+
+#grammar Pronombres de objeto directo e indirecto
+fa: ضمیر مفعول غیرمستقیم (به کسی): me, te, le, nos, os, les. وقتی دو ضمیر با هم بیایند، اول غیرمستقیم و بعد مستقیم می‌آید (me lo, te la). اگر هر دو سوم شخص باشند، le/les به se تبدیل می‌شود: se lo, se la. با امری مثبت و مصدر به آخر فعل می‌چسبند.
+table: objeto indirecto | me, te, le (se), nos, os, les (se)
+ex: ¿Quién te ha regalado el reloj? — Me lo ha regalado Mar. | Who gave you the watch? — Mar gave it to me.
+ex: ¿Le has dado las llaves a Mercedes? — Sí, ya se las he dado. | Have you given the keys to Mercedes? — Yes, I've already given them to her.
+ex: ¿Me dejas tu diccionario? — Sí, claro, cógelo. | Can I borrow your dictionary? — Yes, of course, take it.
+
+#vocab La casa ideal
+la agencia inmobiliaria | estate agent's | بنگاه املاک
+alquilar | to rent | اجاره کردن
+el alquiler | rent | اجاره
+la venta | sale | فروش
+el chalé | detached house | ویلا
+el ático | penthouse | پنت‌هاوس
+el techo | ceiling | سقف
+el suelo | floor | کف
+la pared | wall | دیوار
+la cortina | curtain | پرده
+la alfombra | rug, carpet | فرش
+la mesita de noche | bedside table | پاتختی
+el váter | toilet | توالت
+la urbanización | housing estate | شهرک
+las zonas verdes | green spaces | فضای سبز
+la madera | wood | چوب
+el estilo | style | سبک
+clásico/a | classic | کلاسیک
+ideal | ideal | ایده‌آل
+alrededor de | around | اطرافِ
+
+#vocab Cine y series
+la película de acción | action film | فیلم اکشن
+la película de ciencia ficción | science fiction film | فیلم علمی‌تخیلی
+la película policiaca | crime film | فیلم پلیسی
+la película del oeste | western | فیلم وسترن
+la película de guerra | war film | فیلم جنگی
+el musical | musical | فیلم موزیکال
+el drama | drama | درام
+el director / la directora | director | کارگردان
+el actor principal | leading actor | بازیگر نقش اول
+el / la protagonista | main character | شخصیت اصلی
+el reparto | cast | بازیگران
+la telenovela | soap opera | سریال تلویزیونی (عاشقانه)
+la crítica | review, critics | نقد، منتقدان
+el tipo | type, kind | نوع
+tratar de | to be about | درباره‌ی ... بودن
+dirigir | to direct | کارگردانی کردن
+el miedo | fear | ترس
+pasar miedo | to be scared | ترسیدن
+reírse | to laugh | خندیدن
+¡Qué rollo! | How boring! | چه خسته‌کننده!
+¡Qué horror! | How awful! | چه وحشتناک!
+¡Es broma! | Just kidding! | شوخی کردم!
+el emoji | emoji | ایموجی
+picante | spicy | تند
+genial | great | عالی
+
+#vocab Prestar y regalar
+dejar | to lend | قرض دادن
+coger | to take | برداشتن، گرفتن
+la goma | rubber, eraser | پاک‌کن
+la raqueta | racket | راکت
+el reloj | watch | ساعت مچی
+los apuntes | notes | جزوه
+regalar | to give (as a gift) | هدیه دادن
+traer | to bring | آوردن
+entregar | to deliver, to hand in | تحویل دادن
+enviar | to send | فرستادن
+el pedido | order | سفارش
+la factura | invoice, bill | فاکتور
+el / la fontanero/a | plumber | لوله‌کش
+molestar | to bother | اذیت کردن
+preocupar | to worry | نگران کردن
+caer bien / mal | to like / dislike (a person) | (از کسی) خوش آمدن / بد آمدن
+
+#phrases
+¿Dónde le gustaría vivir? | Where would you like to live? | دوست دارید کجا زندگی کنید؟
+¿En qué puedo ayudarle? | How can I help you? | چه کمکی می‌توانم بکنم؟
+Estoy buscando un piso. | I'm looking for a flat. | دنبال یک آپارتمان می‌گردم.
+¿Qué ponen en el cine? | What's on at the cinema? | سینما چی نشون می‌ده؟
+¿De qué trata? | What is it about? | موضوعش چیه؟
+¿Qué has hecho este fin de semana? | What did you do this weekend? | این آخر هفته چیکار کردی؟
+¿Me dejas...? | Can I borrow...? | ... رو بهم قرض می‌دی؟
+¿Quién te lo ha regalado? | Who gave it to you? | کی بهت هدیه داده؟
+Me cae bien. | I like him/her. | ازش خوشم میاد.
+
+#sentences
+I'd like to live in the countryside. => Me gustaría vivir en el campo.
+Would you like to come to the concert on Saturday? => ¿Te gustaría venir al concierto del sábado? // ¿Te gustaría ir al concierto del sábado?
+Lucía would like to change jobs. => A Lucía le gustaría cambiar de trabajo.
+We'd like to buy a flat by the beach. => Nos gustaría comprar un piso en la playa. // Nos gustaría comprar un apartamento en la playa.
+I'm looking for a flat with a terrace. => Estoy buscando un piso con terraza.
+What kind of films do you like? => ¿Qué tipo de películas te gustan?
+I prefer comedies. => Prefiero las comedias.
+What is the film about? => ¿De qué trata la película?
+What did you do this weekend? => ¿Qué has hecho este fin de semana?
+On Saturday I went to the theatre and on Sunday I cleaned the house. => El sábado fui al teatro y el domingo limpié la casa.
+Have you called your mother? — Yes, I called her yesterday. => ¿Has llamado a tu madre? Sí, la llamé ayer.
+This year we have sold more than last year. => Este año hemos vendido más que el año pasado.
+Have you ever been to Mexico? — Yes, we went last year. => ¿Habéis estado alguna vez en México? Sí, estuvimos el año pasado. // ¿Has estado alguna vez en México? Sí, estuvimos el año pasado.
+Who gave you this watch? => ¿Quién te ha regalado este reloj?
+My sister gave it to me. => Me lo ha regalado mi hermana.
+Have you given the keys to Mercedes? => ¿Le has dado las llaves a Mercedes?
+Yes, I've already given them to her. => Sí, ya se las he dado.
+Can I borrow your dictionary? => ¿Me dejas tu diccionario?
+Yes, of course, take it. => Sí, claro, cógelo.
+I haven't seen the neighbours today. => Hoy no he visto a los vecinos.
+I didn't bring it because I didn't find it. => No lo he traído porque no lo he encontrado.
+I don't like spicy food. => No me gusta la comida picante.
+I like him a lot. => Me cae muy bien.
+I have had an awful day. => He tenido un día fatal.

@@ -1,0 +1,137 @@
+@unit 18
+@title Predicciones
+@title_en Predictions
+@title_fa پیش‌بینی‌ها
+@pages 185-194
+@verbs llevar esperar haber dejar curar acabarse funcionar devolver ahorrar votar elegir opinar interesar parecer creer pensar
+@tenses fut
+@topics A ¿Cuánto tiempo llevas esperando? — duración de una actividad, llevar + gerundio | B ¿Qué pasará? — hablar del futuro, predicciones, futuro imperfecto, oraciones condicionales | C ¿Qué te parece este...? — expresar gustos y opiniones | D Jóvenes latinos que inspiran a Estados Unidos
+
+#grammar Llevar + gerundio
+fa: llevar (حال) + gerundio برای کاری که در گذشته شروع شده و هنوز ادامه دارد و مدت آن را نشان می‌دهد. با مقدار زمان (dos años) یا با desde + تاریخ/ساعت. با vivir و trabajar معمولاً gerundio حذف می‌شود.
+table: llevar + gerundio | llevo viviendo, llevas viviendo, lleva viviendo, llevamos viviendo, lleváis viviendo, llevan viviendo
+ex: Llevo estudiando español más de dos años. | I've been studying Spanish for more than two years.
+ex: Lleva hablando por teléfono desde las cuatro. | She's been on the phone since four.
+ex: ¿Cuánto tiempo llevas esperando? | How long have you been waiting?
+ex: ¿Cuánto tiempo llevas en este hospital? — Tres meses. | How long have you been (working) at this hospital? — Three months.
+
+#grammar Futuro imperfecto
+fa: آینده‌ی ساده: کل مصدر + پایانه‌ها (é, ás, á, emos, éis, án) برای هر سه گروه. برای اتفاقات آینده (mañana، el año que viene، dentro de un año)، پیش‌بینی و قول. بی‌قاعده‌ها ریشه‌ی خاص دارند: decir → dir-، hacer → har-، tener → tendr-، poder → podr-، poner → pondr-، salir → saldr-، venir → vendr-، haber → habr- (habrá = وجود خواهد داشت).
+table: estudiar | estudiaré, estudiarás, estudiará, estudiaremos, estudiaréis, estudiarán
+table: tener | tendré, tendrás, tendrá, tendremos, tendréis, tendrán
+table: hacer | haré, harás, hará, haremos, haréis, harán
+ex: El año que viene habrá elecciones. | Next year there will be elections.
+ex: Dentro de unos años todo el mundo tendrá un coche eléctrico. | In a few years everyone will have an electric car.
+ex: El domingo te llevaré al cine. | On Sunday I'll take you to the cinema.
+
+#grammar Oraciones condicionales (si + presente)
+fa: برای شرط‌های محتمل: si + زمان حال، و در بخش دوم: آینده، امری یا حال. بعد از si هرگز آینده نمی‌آید.
+ex: Si salgo pronto del trabajo, iré a verte. | If I leave work early, I'll come and see you.
+ex: Si te gusta viajar, ven con nosotros. | If you like travelling, come with us.
+ex: Si no llueve, salgo todos los días. | If it doesn't rain, I go out every day.
+ex: Si dejas de fumar, ahorrarás dinero. | If you stop smoking, you'll save money.
+
+#grammar Expresar opiniones y gustos
+fa: برای نظر: creo que / pienso que / me parece que + جمله. برای سؤال: ¿Qué te parece...? ¿Tú qué opinas? برای موافقت و مخالفت: A mí también / A mí tampoco / Yo también / Yo tampoco / Pues a mí sí / Pues yo no. interesar مثل gustar است.
+ex: ¿Qué te parece esta película? — Me parece aburrida. | What do you think of this film? — I think it's boring.
+ex: Yo creo que habrá menos contaminación. | I think there will be less pollution.
+ex: No me interesa la política. — A mí tampoco. | I'm not interested in politics. — Me neither.
+
+#vocab Duración
+¿cuánto tiempo? | how long? | چه مدت؟
+llevar + gerundio | to have been doing | ... مدت است که ...
+desde | since | از (زمانی که)
+desde hace | for (time) | از ... پیش
+la cola | queue | صف
+actualmente | currently | در حال حاضر
+el coro | choir | گروه کر
+el ajedrez | chess | شطرنج
+la tesis | thesis | پایان‌نامه
+varios/as | several | چندین
+
+#vocab Futuro y predicciones
+el futuro | future | آینده
+la predicción | prediction | پیش‌بینی
+dentro de un año | in a year's time | یک سال دیگر
+la semana que viene | next week | هفته‌ی آینده
+el mes próximo | next month | ماه آینده
+luego | later | بعداً
+más tarde | later | دیرتر، بعداً
+habrá | there will be | وجود خواهد داشت
+el coche eléctrico | electric car | ماشین برقی
+la Tierra | the Earth | زمین
+la Luna | the Moon | ماه
+el espacio | space | فضا
+la nave espacial | spaceship | سفینه‌ی فضایی
+curar | to cure | درمان کردن
+el cáncer | cancer | سرطان
+la guerra | war | جنگ
+para siempre | forever | برای همیشه
+el medioambiente | environment | محیط زیست
+la contaminación | pollution | آلودگی
+los gases tóxicos | toxic gases | گازهای سمی
+el milenio | millennium | هزاره
+la promesa | promise | قول
+dejar de | to stop (doing) | دست کشیدن از، ترک کردن
+
+#vocab Política
+las elecciones | elections | انتخابات
+el partido político | political party | حزب سیاسی
+votar | to vote | رأی دادن
+elegir | to choose, to elect | انتخاب کردن
+el gobierno | government | دولت
+las pensiones | pensions | حقوق بازنشستگی
+la educación | education | آموزش
+la sanidad | health system | بهداشت و درمان
+
+#vocab Opiniones
+opinar | to think, to give an opinion | نظر دادن
+me parece que | I think that | به نظرم
+creo que | I think that | فکر می‌کنم
+pienso que | I think that | فکر می‌کنم
+interesar | to interest | جالب بودن برای
+estar de acuerdo | to agree | موافق بودن
+contigo | with you | با تو
+conmigo | with me | با من
+horrible | horrible | وحشتناک
+emocionante | exciting | هیجان‌انگیز
+desagradable | unpleasant | ناخوشایند
+original | original | خلاقانه
+romántico/a | romantic | عاشقانه
+estúpido/a | stupid | احمقانه
+la política | politics | سیاست
+
+#phrases
+¿Cuánto tiempo llevas estudiando español? | How long have you been studying Spanish? | چند وقته اسپانیایی می‌خونی؟
+Llevo seis meses. | Six months. | شش ماهه.
+¿Qué pasará? | What will happen? | چه اتفاقی خواهد افتاد؟
+¿Dónde crees que estarás dentro de veinte años? | Where do you think you'll be in twenty years? | فکر می‌کنی بیست سال دیگه کجا باشی؟
+¿Qué te parece...? | What do you think of...? | نظرت درباره‌ی ... چیه؟
+¿Y tú qué opinas? | And what do you think? | تو چی فکر می‌کنی؟
+A mí no me interesa. | I'm not interested. | برای من جالب نیست.
+Estoy de acuerdo. | I agree. | موافقم.
+
+#sentences
+How long have you been studying Spanish? => ¿Cuánto tiempo llevas estudiando español?
+I've been studying Spanish for six months. => Llevo seis meses estudiando español. // Llevo estudiando español seis meses.
+We've been waiting for the bus for half an hour. => Llevamos media hora esperando el autobús. // Llevamos esperando el autobús media hora.
+She has been living in Holland for a year. => Lleva un año viviendo en Holanda. // Lleva viviendo en Holanda un año.
+I've been living here since April. => Llevo viviendo aquí desde abril. // Llevo desde abril viviendo aquí.
+Tomorrow I'll go to the cinema with you. => Mañana iré al cine contigo.
+In a year I'll finish my studies. => Dentro de un año terminaré mis estudios.
+Next month there will be a party. => El mes que viene habrá una fiesta. // El mes próximo habrá una fiesta.
+Tomorrow he won't be able to come to class. => Mañana no podrá venir a clase.
+Next year I'll have a month of holiday. => El año que viene tendré un mes de vacaciones.
+I'll tell him tomorrow. => Se lo diré mañana.
+I think there will be less pollution. => Creo que habrá menos contaminación. // Yo creo que habrá menos contaminación.
+People will live more than a hundred years. => La gente vivirá más de cien años.
+If I leave work early, I'll come and see you. => Si salgo pronto del trabajo, iré a verte.
+If you like travelling, come with us. => Si te gusta viajar, ven con nosotros.
+If you stop smoking, you'll save money. => Si dejas de fumar, ahorrarás dinero.
+If there are no buses, we'll lose the train. => Si no hay autobuses, perderemos el tren.
+If it's windy, close the window. => Si hace viento, cierra la ventana.
+What do you think of this film? => ¿Qué te parece esta película?
+I think it's very boring. => Me parece muy aburrida.
+I'm not interested in politics. — Me neither. => No me interesa la política. A mí tampoco.
+And what do you think? => ¿Y tú qué opinas?
+I agree. => Estoy de acuerdo.

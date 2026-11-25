@@ -1,0 +1,206 @@
+@unit 1
+@title Saludos
+@title_en Greetings
+@title_fa احوالپرسی و معرفی
+@pages 15-24
+@verbs ser tener trabajar comer vivir llamarse hablar estudiar escribir beber leer dedicarse
+@tenses pres
+@topics A ¡Encantado! — saludar y presentar, nacionalidades | B ¿A qué te dedicas? — profesiones, presente regular, tú y usted | C ¿Cuál es tu número de móvil? — números 0-20, interrogativos | D Fórmulas de tratamiento
+
+#grammar Presente de verbos regulares (-ar, -er, -ir)
+fa: سه گروه فعل داریم: -ar و -er و -ir. ریشه را نگه می‌داریم و پایانه‌ی شخص را اضافه می‌کنیم. ضمیر فاعلی معمولاً حذف می‌شود چون پایانه‌ی فعل شخص را نشان می‌دهد.
+table: trabajar | trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan
+table: comer | como, comes, come, comemos, coméis, comen
+table: vivir | vivo, vives, vive, vivimos, vivís, viven
+ex: Trabajo en un hospital. | I work in a hospital.
+ex: ¿Dónde vives? | Where do you live?
+
+#grammar Verbos ser y tener
+fa: ser و tener بی‌قاعده‌اند و باید حفظ شوند. ser برای هویت، ملیت و شغل است. tener یعنی داشتن.
+table: ser | soy, eres, es, somos, sois, son
+table: tener | tengo, tienes, tiene, tenemos, tenéis, tienen
+ex: Pilar es española. Pilar es azafata. | Pilar is Spanish. Pilar is a flight attendant.
+ex: Tenemos dos hijos. | We have two children.
+
+#grammar Género de los nombres y adjetivos
+fa: اسم‌ها مذکر (el) یا مؤنث (la) هستند. در شغل‌ها: -o به -a تبدیل می‌شود (abogado → abogada)، به حرف بی‌صدا -a اضافه می‌شود (profesor → profesora)، کلمه‌های -ista تغییر نمی‌کنند (taxista). صفت با اسم هم‌جنس می‌شود. در ملیت‌ها: -o → -a (brasileño → brasileña)، بی‌صدا + a (alemán → alemana)، و -e و -í ثابت می‌مانند (estadounidense, marroquí).
+ex: el profesor / la profesora | the teacher (m/f)
+ex: El profesor es simpático. La profesora es simpática. | The teacher is nice.
+ex: el taxista / la taxista | the taxi driver (m/f)
+
+#grammar Tú y usted
+fa: tú و vosotros برای دوستان، آشنایان و هم‌سن‌ها (غیررسمی). usted و ustedes برای غریبه‌ها، افراد مسن‌تر و رسمی؛ usted با فعل سوم شخص مفرد صرف می‌شود. در آمریکای لاتین به جای vosotros از ustedes استفاده می‌شود.
+ex: ¿Dónde vives? / ¿Dónde vive usted? | Where do you live? (informal / formal)
+ex: ¿Cómo te llamas? / ¿Cómo se llama usted? | What's your name? (informal / formal)
+
+#grammar Interrogativos
+fa: کلمات پرسشی همیشه علامت تکیه دارند و جمله‌ی سؤالی با ¿ شروع و با ? تمام می‌شود.
+ex: ¿Qué? ¿Dónde? ¿Cómo? ¿Cuál? ¿Cuántos? ¿Quién? | What? Where? How? Which? How many? Who?
+ex: ¿A qué te dedicas? | What do you do (for a living)?
+ex: ¿Cuál es tu número de teléfono? | What's your phone number?
+
+#vocab Saludos y presentaciones
+¿qué tal? | how are you?, how's it going? | چطوری؟
+bien | well, fine | خوب
+muy bien | very well | خیلی خوب
+encantado/a | nice to meet you | از آشنایی‌ات خوشوقتم
+mucho gusto | pleased to meet you | خوشبختم
+el señor | Mr., gentleman | آقا
+la señora | Mrs., lady | خانم
+hasta luego | see you later | فعلاً، تا بعد
+bienvenido/a | welcome | خوش آمدید
+
+#vocab Nacionalidades
+inglés/a | English | انگلیسی
+japonés/a | Japanese | ژاپنی
+chino/a | Chinese | چینی
+británico/a | British | بریتانیایی
+estadounidense | American (US) | آمریکایی
+canadiense | Canadian | کانادایی
+marroquí | Moroccan | مراکشی
+polaco/a | Polish | لهستانی
+turco/a | Turkish | ترک
+sevillano/a | from Seville | اهل سویا
+valenciano/a | from Valencia | اهل والنسیا
+la nacionalidad | nationality | ملیت
+
+#vocab Profesiones
+el médico / la médica | doctor | پزشک
+el abogado / la abogada | lawyer | وکیل
+el camarero / la camarera | waiter, waitress | گارسون
+el peluquero / la peluquera | hairdresser | آرایشگر
+el actor / la actriz | actor, actress | بازیگر
+el / la cantante | singer | خواننده
+el / la taxista | taxi driver | راننده تاکسی
+el / la periodista | journalist | روزنامه‌نگار
+el / la policía | police officer | پلیس
+el / la futbolista | footballer | فوتبالیست
+el escritor / la escritora | writer | نویسنده
+el secretario / la secretaria | secretary | منشی
+el cartero / la cartera | postman, postwoman | نامه‌رسان
+el científico / la científica | scientist | دانشمند
+el arquitecto / la arquitecta | architect | معمار
+el cocinero / la cocinera | cook, chef | آشپز
+el vendedor / la vendedora | salesperson | فروشنده
+el conductor / la conductora | driver | راننده
+el pintor / la pintora | painter | نقاش
+el director / la directora | director, manager | مدیر
+el / la recepcionista | receptionist | پذیرش‌گر، مسئول پذیرش
+el / la economista | economist | اقتصاددان
+la profesión | profession, job | شغل
+
+#vocab Lugares
+la oficina | office | دفتر، اداره
+la cafetería | café | کافه
+el instituto | secondary school | دبیرستان
+la universidad | university | دانشگاه
+el colegio | school | مدرسه
+la empresa | company | شرکت
+el banco | bank | بانک
+el gimnasio | gym | باشگاه
+la calle | street | خیابان
+la casa | house, home | خانه
+
+#vocab Familia y estado civil
+el marido | husband | شوهر
+la mujer | wife, woman | همسر (زن)، زن
+el hombre | man | مرد
+el hijo / la hija | son / daughter | پسر / دختر (فرزند)
+los hijos | children (sons and daughters) | فرزندان
+los padres | parents | والدین
+el padre | father | پدر
+la madre | mother | مادر
+el novio / la novia | boyfriend / girlfriend | دوست‌پسر / دوست‌دختر
+casado/a | married | متأهل
+soltero/a | single | مجرد
+
+#vocab Datos personales
+el número | number | شماره، عدد
+el teléfono | telephone | تلفن
+el número de teléfono | phone number | شماره تلفن
+la dirección | address | آدرس
+el correo electrónico | email | ایمیل
+el piso | floor, flat | طبقه، آپارتمان
+la puerta | door | در
+la edad | age | سن
+nuevo/a | new | جدید
+simpático/a | nice, friendly | خوش‌برخورد، مهربان
+amable | kind | مهربان
+mucho | a lot, much | زیاد
+también | also, too | همچنین، هم
+pero | but | اما
+ahora | now | الان
+aquí | here | اینجا
+
+#vocab Interrogativos
+qué | what | چه، چی
+dónde | where | کجا
+de dónde | where from | اهل کجا، از کجا
+cómo | how | چطور
+cuál | which, what | کدام
+cuántos/as | how many | چند تا
+quién | who | چه کسی
+
+#vocab Números 0-20
+cero | zero | صفر
+uno | one | یک
+dos | two | دو
+tres | three | سه
+cuatro | four | چهار
+cinco | five | پنج
+seis | six | شش
+siete | seven | هفت
+ocho | eight | هشت
+nueve | nine | نه
+diez | ten | ده
+once | eleven | یازده
+doce | twelve | دوازده
+trece | thirteen | سیزده
+catorce | fourteen | چهارده
+quince | fifteen | پانزده
+dieciséis | sixteen | شانزده
+diecisiete | seventeen | هفده
+dieciocho | eighteen | هجده
+diecinueve | nineteen | نوزده
+veinte | twenty | بیست
+
+#phrases
+¡Hola! ¿Qué tal? | Hi! How are you? | سلام! چطوری؟
+Bien, ¿y tú? | Fine, and you? | خوبم، تو چطور؟
+Muy bien, gracias. | Very well, thanks. | خیلی خوب، ممنون
+¿Cómo está usted? | How are you? (formal) | حال شما چطور است؟
+Esta es Celia. / Este es Roberto. | This is Celia. / This is Roberto. | این سلیاست. / این روبرتوست.
+Le presento al señor Rodríguez. | Let me introduce Mr. Rodríguez. (formal) | آقای رودریگز را معرفی می‌کنم.
+¡Encantado! / ¡Encantada! | Nice to meet you! | خوشبختم!
+¿A qué te dedicas? | What do you do? | شغلت چیه؟
+¿A qué se dedica usted? | What do you do? (formal) | شغل شما چیست؟
+¿Dónde trabajas? | Where do you work? | کجا کار می‌کنی؟
+¿Cuál es tu número de teléfono? | What's your phone number? | شماره تلفنت چنده؟
+¿Cuál es tu correo electrónico? | What's your email? | ایمیلت چیه؟
+Estoy casado. / Estoy soltera. | I'm married. / I'm single. | متأهلم. / مجردم.
+
+#sentences
+I am a doctor. => Soy médico. // Soy médica. // Yo soy médico. // Yo soy médica.
+She is a teacher and she works in a school. => Es profesora y trabaja en un colegio. // Ella es profesora y trabaja en un colegio.
+Where do you live? => ¿Dónde vives?
+I live in Barcelona. => Vivo en Barcelona.
+We have two children. => Tenemos dos hijos.
+What's your name? (formal) => ¿Cómo se llama usted? // ¿Cómo se llama?
+Where are you from? => ¿De dónde eres?
+We are Argentinian, from Buenos Aires. => Somos argentinos, de Buenos Aires. // Somos argentinas, de Buenos Aires.
+What do you do? => ¿A qué te dedicas?
+I am a student and I study at the university. => Soy estudiante y estudio en la universidad.
+My husband works in a bank. => Mi marido trabaja en un banco.
+They speak Spanish and English. => Hablan español e inglés. // Ellos hablan español e inglés. // Ellas hablan español e inglés.
+Do you have children? => ¿Tienes hijos?
+What's your phone number? => ¿Cuál es tu número de teléfono?
+This is Marta, a new classmate. => Esta es Marta, una nueva compañera. // Esta es Marta, una compañera nueva.
+Nice to meet you! => ¡Encantado! // ¡Encantada! // ¡Mucho gusto!
+Where does he work? => ¿Dónde trabaja?
+He is a waiter and she is a lawyer. => Él es camarero y ella es abogada.
+Juan is Mexican but he lives in Madrid. => Juan es mexicano, pero vive en Madrid. // Juan es mexicano pero vive en Madrid.
+We eat at home. => Comemos en casa.
+You (all) live here. => Vivís aquí. // Vosotros vivís aquí. // Vosotras vivís aquí.
+Good morning, Mr. Prado, how are you? => Buenos días, señor Prado, ¿cómo está usted? // ¡Buenos días, señor Prado! ¿Cómo está usted?
+My name is Ana and I am single. => Me llamo Ana y estoy soltera.
+The teacher is very nice. => El profesor es muy simpático. // La profesora es muy simpática.

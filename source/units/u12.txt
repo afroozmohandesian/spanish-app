@@ -1,0 +1,158 @@
+@unit 12
+@title Costumbres
+@title_en Customs
+@title_fa آداب و رسوم
+@pages 125-134
+@verbs usar cumplir apetecer soportar importar abrazar saludar planchar fregar arreglar plantar montar romper quitarse besar señalar parar aprobar tener ver hacer decir escribir abrir volver poner
+@tenses perf
+@topics A El cumpleaños de mi abuela — describir a la familia, hablar del carácter, ser y estar + adjetivos | B ¿Cómo te ha ido hoy? — pasado reciente y experiencias, pretérito perfecto, ya / todavía no | C Costumbres — diferencias culturales, hay que / (no) se puede | D Tradiciones y experiencias
+
+#grammar Ser y estar + adjetivos
+fa: ser + صفت = ویژگی شخصیتی یا دائمی، estar + صفت = حالت موقتی یا روحی. بعضی صفت‌ها با هر دو می‌آیند و معنی کمی فرق می‌کند (es tranquilo = آدم آرامی است / está tranquilo = الان آرام است). بعضی فقط با estar می‌آیند: contento، preocupado، enfermo، cansado، enfadado.
+ex: Mi hermano es muy divertido. | My brother is very funny.
+ex: En la foto Julián está muy serio, pero es una persona alegre. | In the photo Julián looks very serious, but he's a cheerful person.
+ex: Mi jefe está enfadado conmigo. | My boss is angry with me.
+ex: Hoy los niños están muy pesados. | The children are being very annoying today.
+
+#grammar Pretérito perfecto
+fa: ماضی نقلی = haber (حال) + participio. برای کارهای گذشته‌ی نزدیک در زمانی که هنوز تمام نشده (hoy، esta mañana، esta semana، este año، últimamente)، برای تجربه‌ها (alguna vez، nunca، tres veces) و با ya و todavía no. participio: -ar → -ado، -er/-ir → -ido. بی‌قاعده‌ها: hecho، visto، dicho، escrito، abierto، vuelto، puesto، roto، muerto.
+table: haber + participio | he hablado, has hablado, ha hablado, hemos hablado, habéis hablado, han hablado
+table: participios irregulares | hacer → hecho, ver → visto, decir → dicho, escribir → escrito, abrir → abierto, volver → vuelto, poner → puesto, romper → roto, morir → muerto
+ex: Esta mañana no he ido a trabajar. | This morning I didn't go to work.
+ex: Hoy he tenido mucho trabajo. | I've had a lot of work today.
+ex: ¿Has estado alguna vez en España? | Have you ever been to Spain?
+ex: Luisa se ha casado tres veces. | Luisa has got married three times.
+
+#grammar Ya / todavía no; perfecto vs. indefinido
+fa: ya = قبلاً، دیگر (کار انجام شده). todavía no = هنوز نه. اگر زمان گذشته مشخص و تمام‌شده باشد (ayer، el año pasado، hace diez años) از indefinido استفاده می‌کنیم، حتی وقتی درباره‌ی تجربه صحبت می‌کنیم.
+ex: ¿Has hecho las maletas? — No, todavía no. / Sí, ya las he hecho. | Have you packed? — No, not yet. / Yes, I've already done it.
+ex: ¿Has montado alguna vez en globo? — Sí, monté una vez el verano pasado. | Have you ever been in a hot-air balloon? — Yes, once, last summer.
+ex: No he montado nunca en camello. | I've never ridden a camel.
+
+#grammar Hay que / (no) se puede + infinitivo
+fa: hay que + مصدر = باید (اجبار کلی، بدون فاعل مشخص). no hay que = لازم نیست. se puede / no se puede + مصدر = اجازه هست / ممنوع است.
+ex: Para aprobar hay que estudiar. | To pass, you have to study.
+ex: Hay que quitarse los zapatos al entrar en una casa. | You have to take your shoes off when you go into a house.
+ex: Aquí no se puede aparcar. | You can't park here.
+ex: En esta zona se puede jugar al fútbol. | You can play football in this area.
+
+#vocab Familia
+el sobrino / la sobrina | nephew / niece | خواهرزاده، برادرزاده
+el nieto / la nieta | grandson / granddaughter | نوه
+el cuñado / la cuñada | brother-in-law / sister-in-law | برادرزن، شوهرخواهر / خواهرشوهر، زن‌برادر
+el suegro / la suegra | father-in-law / mother-in-law | پدرشوهر، پدرزن / مادرشوهر، مادرزن
+el yerno / la nuera | son-in-law / daughter-in-law | داماد / عروس
+el pariente | relative | خویشاوند
+cumplir años | to have a birthday | تولد گرفتن، ... ساله شدن
+apetecer | to feel like | دل خواستن
+me apetece | I feel like it | دلم می‌خواهد
+soportar | to stand, to bear | تحمل کردن
+
+#vocab Carácter y estado de ánimo
+cariñoso/a | affectionate | مهربان، بامحبت
+egoísta | selfish | خودخواه
+grosero/a | rude | بی‌ادب
+arrogante | arrogant | مغرور
+nervioso/a | nervous | عصبی، مضطرب
+preocupado/a | worried | نگران
+enfadado/a | angry | عصبانی
+pesado/a | annoying, tiresome | آزاردهنده، سمج
+trabajador/a | hard-working | سخت‌کوش
+vago/a | lazy | تنبل
+inteligente | intelligent | باهوش
+tímido/a | shy | خجالتی
+sociable | sociable | اجتماعی
+harto/a | fed up | خسته و کلافه
+insoportable | unbearable | غیرقابل تحمل
+
+#vocab Actividades cotidianas
+hacer la compra | to do the shopping | خرید خانه کردن
+hacer la comida | to make lunch | ناهار درست کردن
+planchar | to iron | اتو کردن
+fregar los platos | to wash the dishes | ظرف شستن
+poner la lavadora | to put the washing on | ماشین لباسشویی را روشن کردن
+limpiar el polvo | to dust | گردگیری کردن
+hacer las maletas | to pack | چمدان بستن
+tener una reunión | to have a meeting | جلسه داشتن
+llevar a los niños al colegio | to take the children to school | بچه‌ها را به مدرسه بردن
+
+#vocab Experiencias
+la experiencia | experience | تجربه
+alguna vez | ever | تا حالا، یک بار
+nunca | never | هرگز
+una vez | once | یک بار
+dos veces | twice | دو بار
+muchas veces | many times | بارها
+ya | already, yet | قبلاً، دیگر
+todavía no | not yet | هنوز نه
+últimamente | lately | اخیراً
+esta mañana | this morning | امروز صبح
+esta semana | this week | این هفته
+este año | this year | امسال
+hace un rato | a while ago | کمی پیش
+hace diez años | ten years ago | ده سال پیش
+el extranjero | abroad | خارج از کشور
+el globo | hot-air balloon | بالن
+el camello | camel | شتر
+el árbol | tree | درخت
+crudo/a | raw | خام
+la carta de amor | love letter | نامه‌ی عاشقانه
+el crucero | cruise | سفر دریایی
+
+#vocab Costumbres
+la costumbre | custom | رسم، عادت
+la tradición | tradition | سنت
+tradicional | traditional | سنتی
+la norma | rule | قانون، قاعده
+el consejo | advice | توصیه
+el permiso | permission | اجازه
+prohibido/a | forbidden | ممنوع
+quitarse los zapatos | to take off one's shoes | کفش درآوردن
+besar | to kiss | بوسیدن
+saludar | to greet | سلام کردن
+abrazar | to hug | بغل کردن
+señalar | to point | اشاره کردن
+en público | in public | در جمع
+el novio / la novia | groom / bride | داماد / عروس
+el anillo de boda | wedding ring | حلقه‌ی ازدواج
+la suerte | luck | شانس
+aparcar | to park | پارک کردن
+hay que | one has to, you have to | باید
+se puede | you can, it's allowed | می‌شود، اجازه هست
+
+#phrases
+¿Cómo te ha ido hoy? | How did it go today? | امروز چطور گذشت؟
+¡Qué día! | What a day! | چه روزی!
+¿Has estado alguna vez en...? | Have you ever been to...? | تا حالا ... رفتی؟
+No, nunca. | No, never. | نه، هرگز.
+Sí, muchas veces. | Yes, many times. | بله، بارها.
+No, todavía no. | No, not yet. | نه، هنوز نه.
+Sí, ya lo he hecho. | Yes, I've already done it. | بله، انجامش دادم.
+No me apetece nada. | I don't feel like it at all. | اصلاً حوصله‌اش را ندارم.
+Aquí no se puede fumar. | You can't smoke here. | اینجا سیگار کشیدن ممنوع است.
+
+#sentences
+My cousin is very intelligent and nice. => Mi primo es muy inteligente y simpático. // Mi prima es muy inteligente y simpática.
+Today my sister is very nervous about her wedding. => Hoy mi hermana está muy nerviosa por su boda.
+My boss is angry with me. => Mi jefe está enfadado conmigo.
+Why are you worried? => ¿Por qué estás preocupado? // ¿Por qué estás preocupada?
+My grandmother is turning eighty on Saturday. => Mi abuela cumple ochenta años el sábado.
+I don't feel like going at all. => No me apetece nada ir.
+Today I've had a lot of work. => Hoy he tenido mucho trabajo.
+This morning I didn't go to work. => Esta mañana no he ido a trabajar.
+I have ironed the clothes and made lunch. => He planchado la ropa y he hecho la comida.
+Have you ever been to Spain? => ¿Has estado alguna vez en España?
+I've never ridden a camel. => No he montado nunca en camello. // Nunca he montado en camello.
+She has got married twice. => Se ha casado dos veces. // Ella se ha casado dos veces.
+Have you packed? — No, not yet. => ¿Has hecho las maletas? No, todavía no.
+I've already bought the bread. => Ya he comprado el pan.
+Have you seen the film? — Yes, I've already seen it. => ¿Has visto la película? Sí, ya la he visto.
+Lately I've learned to use the internet. => Últimamente he aprendido a usar internet.
+Have you written to your parents? => ¿Has escrito a tus padres?
+Ten years ago I went to Brazil. => Hace diez años fui a Brasil.
+To pass, you have to study. => Para aprobar hay que estudiar.
+You can't park here. => Aquí no se puede aparcar. // No se puede aparcar aquí.
+You have to take your shoes off when you go into a house. => Hay que quitarse los zapatos al entrar en una casa.
+In this area you can play football. => En esta zona se puede jugar al fútbol.
+Who has opened the window? => ¿Quién ha abierto la ventana?
+We have come back very tired. => Hemos vuelto muy cansados. // Hemos vuelto muy cansadas.

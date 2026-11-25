@@ -1,0 +1,164 @@
+@unit 4
+@title La casa
+@title_en The house
+@title_fa خانه
+@pages 45-54
+@verbs haber tener aparcar reservar costar guardar calentar escuchar leer quedarse poner preferir
+@tenses pres
+@topics A ¿Dónde vives? — partes de la casa, números ordinales | B Interiores — muebles y electrodomésticos, artículos, hay / está(n) | C Visita a Córdoba — hacer una reserva en un hotel | D Tipos de vivienda en España
+
+#grammar Hay / está(n)
+fa: hay (از فعل haber) برای «وجود داشتن» است: هست / وجود دارد. بعد از hay از un/una/unos/unas، اعداد، mucho/poco یا اسم بدون حرف تعریف استفاده می‌شود، هرگز el/la. está / están برای جای یک چیز مشخص است و با el/la یا اسم خاص می‌آید.
+ex: En el cuarto de baño hay una toalla. | There is a towel in the bathroom.
+ex: Hay muchos armarios en la cocina. | There are a lot of cupboards in the kitchen.
+ex: ¿Hay un supermercado cerca de aquí? | Is there a supermarket near here?
+ex: La leche está en la nevera. | The milk is in the fridge.
+ex: ¿Dónde están mis libros? | Where are my books?
+
+#grammar Artículos determinados e indeterminados
+fa: el, la, los, las برای چیزی که می‌شناسیم، برای ساعت و روزهای هفته. un, una, unos, unas برای چیزی که اولین بار نام می‌بریم و همراه hay.
+ex: Cierra la ventana. | Close the window.
+ex: Los viernes vamos al cine. | On Fridays we go to the cinema.
+ex: Tengo un coche nuevo. | I have a new car.
+ex: Hay un gato en el jardín. | There is a cat in the garden.
+
+#grammar Números ordinales
+fa: عددهای ترتیبی با اسم در جنس و تعداد مطابقت می‌کنند. primero و tercero قبل از اسم مذکر مفرد o آخرشان را از دست می‌دهند: primer piso، tercer piso.
+ex: Vivo en el primer piso. | I live on the first floor.
+ex: Mi clase está en la segunda planta. | My class is on the second floor.
+ex: ¿En qué piso vives? — En el cuarto derecha. | Which floor do you live on? — On the fourth, on the right.
+
+#vocab Tipos de vivienda
+el piso | flat, apartment | آپارتمان
+el chalé adosado | terraced house | خانه‌ی ویلایی ردیفی
+el estudio | studio flat | استودیو (آپارتمان یک‌اتاقه)
+el ático | penthouse, attic flat | پنت‌هاوس، طبقه‌ی آخر
+el apartamento | apartment | آپارتمان
+la vivienda | home, dwelling | محل سکونت، مسکن
+el centro | centre | مرکز (شهر)
+fuera de | outside (of) | بیرونِ
+las afueras | outskirts | حومه‌ی شهر
+la planta | floor, storey | طبقه
+la planta baja | ground floor | طبقه‌ی همکف
+el sótano | basement | زیرزمین
+arriba | upstairs, above | بالا
+abajo | downstairs, below | پایین
+el ascensor | lift, elevator | آسانسور
+
+#vocab Partes de la casa
+la cocina | kitchen | آشپزخانه
+el comedor | dining room | اتاق ناهارخوری
+el salón | living room | سالن پذیرایی
+el dormitorio | bedroom | اتاق خواب
+el cuarto de baño | bathroom | حمام و دستشویی
+el baño | bathroom | حمام
+el aseo | toilet | دستشویی
+el recibidor | hall, entrance | راهرو ورودی
+el jardín | garden | باغچه، حیاط
+la terraza | terrace, balcony | تراس
+el garaje | garage | پارکینگ، گاراژ
+el patio | courtyard, patio | حیاط
+la piscina | swimming pool | استخر
+
+#vocab Muebles y electrodomésticos
+el armario | wardrobe, cupboard | کمد
+la cama | bed | تخت
+el espejo | mirror | آینه
+el lavabo | washbasin | روشویی
+la ducha | shower | دوش
+la bañera | bathtub | وان
+la toalla | towel | حوله
+el frigorífico | fridge | یخچال
+la nevera | fridge | یخچال
+el microondas | microwave | مایکروویو
+el horno | oven | فر
+el lavavajillas | dishwasher | ماشین ظرفشویی
+la lavadora | washing machine | ماشین لباسشویی
+el fregadero | kitchen sink | سینک ظرفشویی
+el televisor | television set | تلویزیون
+la librería | bookcase | کتابخانه (قفسه)
+el cajón | drawer | کشو
+el plato | plate, dish | بشقاب
+la taza | cup | فنجان
+el vaso | glass | لیوان
+la botella | bottle | بطری
+el agua | water | آب
+la carne | meat | گوشت
+cómodo/a | comfortable | راحت
+luminoso/a | bright | پرنور
+blanco/a | white | سفید
+
+#vocab Números ordinales
+primero/a | first | اول
+segundo/a | second | دوم
+tercero/a | third | سوم
+cuarto/a | fourth | چهارم
+quinto/a | fifth | پنجم
+sexto/a | sixth | ششم
+séptimo/a | seventh | هفتم
+octavo/a | eighth | هشتم
+noveno/a | ninth | نهم
+décimo/a | tenth | دهم
+el primer piso | the first floor | طبقه‌ی اول
+el tercer piso | the third floor | طبقه‌ی سوم
+la derecha | right | راست
+la izquierda | left | چپ
+
+#vocab En el hotel
+la habitación individual | single room | اتاق یک‌نفره
+la habitación doble | double room | اتاق دونفره
+la reserva | reservation, booking | رزرو
+la noche | night | شب
+la recepción | reception | پذیرش
+la tarjeta de crédito | credit card | کارت اعتباری
+el alquiler de bicicletas | bike rental | کرایه‌ی دوچرخه
+libre | free, available | آزاد، خالی
+próximo/a | next | بعدی، آینده
+el euro | euro | یورو
+el turista / la turista | tourist | توریست
+las vacaciones | holidays | تعطیلات
+la playa | beach | ساحل
+la montaña | mountain | کوه
+el norte | north | شمال
+el sur | south | جنوب
+la flor | flower | گل
+el mar | sea | دریا
+
+#phrases
+¿Dónde vives? — En un piso. | Where do you live? — In a flat. | کجا زندگی می‌کنی؟ — در یک آپارتمان.
+¿En qué piso vives? | Which floor do you live on? | طبقه‌ی چندم زندگی می‌کنی؟
+¿Cuántos dormitorios tiene? | How many bedrooms does it have? | چند اتاق خواب دارد؟
+¿Hay habitaciones libres? | Are there any rooms available? | اتاق خالی هست؟
+Una habitación doble, por favor. | A double room, please. | یک اتاق دونفره، لطفاً.
+¿Qué precio tiene? / ¿Cuánto cuesta? | How much is it? | قیمتش چنده؟
+¿Cuántas noches? | How many nights? | چند شب؟
+¿Admiten tarjetas de crédito? | Do you accept credit cards? | کارت اعتباری قبول می‌کنید؟
+Sí, por supuesto. | Yes, of course. | بله، البته.
+De acuerdo. | All right, OK. | قبول، باشه.
+¿Dígame? | Hello? (answering the phone) | بفرمایید؟ (تلفن)
+¿Está Juan? | Is Juan there? | خوان هست؟
+
+#sentences
+I live in a flat in the centre. => Vivo en un piso en el centro.
+There are three bedrooms upstairs. => Hay tres dormitorios arriba. // Arriba hay tres dormitorios. // En la planta de arriba hay tres dormitorios.
+The kitchen is on the ground floor. => La cocina está en la planta baja.
+Is there a supermarket near here? => ¿Hay un supermercado cerca de aquí?
+Where are the keys? => ¿Dónde están las llaves?
+The milk is in the fridge. => La leche está en la nevera. // La leche está en el frigorífico.
+There is no milk. => No hay leche.
+There are two armchairs in the living room. => Hay dos sillones en el salón. // En el salón hay dos sillones.
+The mirror is above the washbasin. => El espejo está encima del lavabo.
+My house has a small garden. => Mi casa tiene un jardín pequeño.
+We don't have a garage; we park in the street. => No tenemos garaje, aparcamos en la calle.
+I live on the third floor. => Vivo en el tercer piso. // Vivo en el tercero.
+My class is on the second floor. => Mi clase está en la segunda planta.
+Are there any rooms available for the weekend? => ¿Hay habitaciones libres para el fin de semana?
+A double room, please. => Una habitación doble, por favor.
+How much is the single room? => ¿Cuánto cuesta la habitación individual?
+Do you accept credit cards? => ¿Admiten tarjetas de crédito?
+How many bathrooms does the flat have? => ¿Cuántos baños tiene el piso? // ¿Cuántos cuartos de baño tiene el piso?
+There is a cat in the garden. => Hay un gato en el jardín.
+The plates are in the kitchen cupboard. => Los platos están en el armario de la cocina.
+In the south of Spain the houses are white. => En el sur de España las casas son blancas.
+The sofa is very comfortable. => El sofá es muy cómodo.
+Is Juan there? — No, he is at home. => ¿Está Juan? No, está en casa.
